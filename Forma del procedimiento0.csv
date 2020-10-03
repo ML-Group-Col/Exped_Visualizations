@@ -1,0 +1,16 @@
+fields,support_c0,support_c1,num_c0,num_c1,s_diff,n_diff,ratio
+Most_used_description_word_adquisicion = '0' AND Correo electronico != 'diconsa' AND Tipo de contratacion = 'servicios' AND Correo electronico != 'canalonce',0.17,0.9,11713.34,24498.0,0.73,12784.66,0.6765284024286315
+Caracter del procedimiento = 'nacional' AND Correo electronico != 'diconsa' AND Tipo de contratacion = 'servicios' AND Correo electronico != 'canalonce',0.16,0.88,11024.32,23953.6,0.72,12929.279999999999,0.6848205953927506
+Tipo de contratacion = 'servicios' AND Caracter del procedimiento != 'internacional' AND Correo electronico != 'canalonce' AND Most_used_UC_word_gyr = '0',0.14,0.82,9646.28,22320.399999999998,0.6799999999999999,12674.119999999997,0.6982395419230273
+Tipo de contratacion = 'servicios' AND Articulo != '43' AND Correo electronico != 'canalonce' AND Operador != 'claudia lizeth paz garcia',0.14,0.81,9646.28,22048.2,0.67,12401.92,0.6956479487910828
+Tipo de contratacion = 'servicios' AND Articulo != '43' AND Operador != 'guadalupe kaori munoz ortiz' AND Operador != 'claudia lizeth paz garcia',0.14,0.81,9646.28,22048.2,0.67,12401.92,0.6956479487910828
+Articulo != '43' AND Tipo de contratacion = 'servicios' AND Operador != 'guadalupe kaori munoz ortiz' AND Operador != 'claudia lizeth paz garcia',0.14,0.81,9646.28,22048.2,0.67,12401.92,0.6956479487910828
+Tipo de contratacion = 'servicios' AND Correo electronico != 'canalonce' AND Articulo != '43' AND Operador != 'claudia lizeth paz garcia',0.14,0.81,9646.28,22048.2,0.67,12401.92,0.6956479487910828
+Articulo != '43' AND Correo electronico != 'diconsa' AND Tipo de contratacion = 'servicios' AND Correo electronico != 'canalonce',0.15,0.81,10335.3,22048.2,0.66,11712.900000000001,0.6808467275001158
+Tipo de contratacion = 'servicios' AND Operador != 'guadalupe kaori munoz ortiz' AND Caracter del procedimiento != 'internacional' AND Articulo != '43',0.16,0.82,11024.32,22320.399999999998,0.6599999999999999,11296.079999999998,0.6693833386515166
+Caracter del procedimiento = 'nacional' AND Correo electronico != 'diconsa' AND Tipo de contratacion = 'servicios' AND Most_used_UC_word_gyr = '0',0.16,0.81,11024.32,22048.2,0.65,11023.880000000001,0.6666622319678088
+Caracter del procedimiento = 'nacional' AND Tipo de contratacion = 'servicios' AND Articulo != '43' AND Operador != 'guadalupe kaori munoz ortiz',0.16,0.81,11024.32,22048.2,0.65,11023.880000000001,0.6666622319678088
+Caracter del procedimiento = 'nacional' AND Correo electronico != 'diconsa' AND Articulo != '43' AND Tipo de contratacion = 'servicios',0.17,0.81,11713.34,22048.2,0.64,10334.86,0.6530567029821507
+Articulo != '43' AND Most_used_description_word_material = '0' AND Tipo de contratacion = 'servicios' AND Operador != 'claudia lizeth paz garcia',0.15,0.79,10335.3,21503.8,0.64,11168.5,0.675389693804159
+Tipo de contratacion = 'servicios' AND Articulo != '43' AND Hora_pub > 8.50 AND Correo electronico != 'canalonce',0.15,0.79,10335.3,21503.8,0.64,11168.5,0.675389693804159
+Articulo != '43' AND Most_used_description_word_material = '0' AND Correo electronico != 'diconsa' AND Tipo de contratacion = 'servicios',0.16,0.79,11024.32,21503.8,0.63,10479.48,0.6610833949210714
