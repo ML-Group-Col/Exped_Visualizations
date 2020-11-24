@@ -1,1 +1,16 @@
-fields,support_c0,support_c1,num_c0,num_c1,s_diff,n_diff,ratio
+patterns,support_c0,support_c1,num_c0,num_c1,s0-s1,c0-c1,c0/(c0 +c1)
+Caracter del procedimiento = 'nacional' AND Articulo != '42' AND Operador != 'guadalupe kaori munoz ortiz' AND Most_used_UC_word_gyr = '0',0.18,0.68,8819.82,32043.64,0.5,23223.82,0.784163651
+Articulo != '42' AND Caracter del procedimiento = 'nacional' AND Most_used_description_word_adquisicion = '0' AND Most_used_UC_word_gyr = '0',0.18,0.66,8819.82,31101.18,0.48,22281.36,0.77906816
+Most_used_UC_word_gyr = '0' AND Plantilla = 'adjudicacion' AND Articulo != '42' AND Operador != 'guadalupe kaori munoz ortiz',0.16,0.64,7839.84,30158.72,0.48,22318.88,0.793680603
+Plantilla != 'proyecto' AND Most_used_UC_word_gyr = '0' AND Articulo != '42' AND Most_used_description_word_material = '0',0.19,0.66,9309.81,31101.18,0.47,21791.37,0.769621828
+Articulo != '42' AND Most_used_description_word_adquisicion = '0' AND Most_used_description_word_material = '0' AND Most_used_UC_word_gyr = '0',0.18,0.65,8819.82,30629.95,0.47,21810.13,0.776429115
+Most_used_description_word_adquisicion = '0' AND Articulo != '42' AND Caracter del procedimiento = 'nacional' AND Operador != 'guadalupe kaori munoz ortiz',0.21,0.67,10289.79,31572.41,0.46,21282.62,0.754198537
+Most_used_UC_word_gyr = '0' AND Operador != 'irma olga arredondo murillo' AND Articulo != '42' AND Operador != 'guadalupe kaori munoz ortiz',0.2,0.66,9799.8,31101.18,0.46,21301.38,0.760401829
+Articulo != '42' AND Most_used_description_word_material = '0' AND Most_used_description_word_adquisicion = '0' AND Caracter del procedimiento = 'nacional',0.21,0.65,10289.79,30629.95,0.44,20340.16,0.748537259
+Most_used_UC_word_gyr = '0' AND Operador != 'irma olga arredondo murillo' AND Plantilla = 'adjudicacion' AND Articulo != '42',0.18,0.6,8819.82,28273.8,0.42,19453.98,0.762228114
+Caracter del procedimiento = 'nacional' AND Most_used_UC_word_gyr = '0' AND Plantilla = 'adjudicacion' AND Operador != 'guadalupe kaori munoz ortiz',0.41,0.81,20089.59,38169.63,0.4,18080.04,0.655168916
+Plantilla != 'proyecto' AND Articulo != '42' AND Most_used_description_word_adquisicion = '0' AND Operador != 'guadalupe kaori munoz ortiz',0.29,0.69,14209.71,32514.87,0.4,18305.16,0.695883623
+Articulo != '42' AND Most_used_UC_word_gyr = '0' AND Most_used_description_word_servici = '0' AND Operador != 'guadalupe kaori munoz ortiz',0.12,0.51,5879.88,24032.73,0.39,18152.85,0.803431396
+Caracter del procedimiento = 'nacional' AND Articulo != '42' AND Most_used_UC_word_gyr = '0' AND Tipo de contratacion != 'servicios',0.07,0.44,3429.93,20734.12,0.37,17304.19,0.858056493
+Plantilla != 'proyecto' AND Most_used_UC_word_gyr = '0' AND Tipo de contratacion != 'servicios' AND Articulo != '42',0.09,0.45,4409.91,21205.35,0.36,16795.44,0.827840514
+Most_used_UC_word_gyr = '0' AND Articulo != '42' AND Operador != 'guadalupe kaori munoz ortiz' AND Tipo de contratacion != 'servicios',0.09,0.45,4409.91,21205.35,0.36,16795.44,0.827840514

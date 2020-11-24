@@ -1,0 +1,1503 @@
+********************* Class: {Caracter_del_procedimiento == 'nacional'}' *********************
+Pattern: {(Most_used_UC_word_gyr == '0')}
+Count: [72243, 3856]
+Target property's support: [89.6193%, 28.6266%]
+Dataset's support: 79.1692%
+Confidence: 94.9329%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0')} describes 72243 (89.6193%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.1576% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0')} describes 3856 (28.6266%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 4.0116% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 94.9329%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')}
+Count: [72242, 3055]
+Target property's support: [89.6180%, 22.6800%]
+Dataset's support: 78.3348%
+Confidence: 95.9427%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 72242 (89.6180%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.1566% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 3055 (22.6800%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 3.1783% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.9427%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')}
+Count: [72235, 3581]
+Target property's support: [89.6094%, 26.5850%]
+Dataset's support: 78.8748%
+Confidence: 95.2767%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')} describes 72235 (89.6094%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.1493% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')} describes 3581 (26.5850%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 3.7255% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.2767%.
+
+Pattern: {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')}
+Count: [72234, 2780]
+Target property's support: [89.6081%, 20.6385%]
+Dataset's support: 78.0404%
+Confidence: 96.2940%
+Interpretation:
+The pattern {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')} describes 72234 (89.6081%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.1482% of the whole dataset.
+The pattern {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')} describes 2780 (20.6385%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.8922% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.2940%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte')}
+Count: [72234, 2780]
+Target property's support: [89.6081%, 20.6385%]
+Dataset's support: 78.0404%
+Confidence: 96.2940%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte')} describes 72234 (89.6081%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.1482% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte')} describes 2780 (20.6385%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.8922% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.2940%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez')}
+Count: [72234, 2780]
+Target property's support: [89.6081%, 20.6385%]
+Dataset's support: 78.0404%
+Confidence: 96.2940%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez')} describes 72234 (89.6081%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.1482% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez')} describes 2780 (20.6385%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.8922% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.2940%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')}
+Count: [72188, 3413]
+Target property's support: [89.5511%, 25.3378%]
+Dataset's support: 78.6511%
+Confidence: 95.4855%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 72188 (89.5511%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.1004% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 3413 (25.3378%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 3.5507% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.4855%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Plantilla != 'reporte')}
+Count: [72187, 2612]
+Target property's support: [89.5498%, 19.3912%]
+Dataset's support: 77.8167%
+Confidence: 96.5080%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Plantilla != 'reporte')} describes 72187 (89.5498%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.0994% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Plantilla != 'reporte')} describes 2612 (19.3912%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.7174% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.5080%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')}
+Count: [72187, 2612]
+Target property's support: [89.5498%, 19.3912%]
+Dataset's support: 77.8167%
+Confidence: 96.5080%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 72187 (89.5498%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.0994% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 2612 (19.3912%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.7174% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.5080%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Operador != 'uzziel pineda avila')}
+Count: [72125, 3259]
+Target property's support: [89.4729%, 24.1945%]
+Dataset's support: 78.4253%
+Confidence: 95.6768%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Operador != 'uzziel pineda avila')} describes 72125 (89.4729%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.0349% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Operador != 'uzziel pineda avila')} describes 3259 (24.1945%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 3.3905% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.6768%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Operador != 'rolando arturo hernandez ayala') AND (Operador != 'uzziel pineda avila')}
+Count: [72124, 2458]
+Target property's support: [89.4717%, 18.2480%]
+Dataset's support: 77.5910%
+Confidence: 96.7043%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Operador != 'rolando arturo hernandez ayala') AND (Operador != 'uzziel pineda avila')} describes 72124 (89.4717%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 75.0338% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Operador != 'rolando arturo hernandez ayala') AND (Operador != 'uzziel pineda avila')} describes 2458 (18.2480%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.5572% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.7043%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')}
+Count: [66605, 2805]
+Target property's support: [82.6252%, 20.8241%]
+Dataset's support: 72.2103%
+Confidence: 95.9588%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')} describes 66605 (82.6252%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 69.2921% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')} describes 2805 (20.8241%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.9182% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.9588%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')}
+Count: [66605, 2805]
+Target property's support: [82.6252%, 20.8241%]
+Dataset's support: 72.2103%
+Confidence: 95.9588%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')} describes 66605 (82.6252%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 69.2921% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')} describes 2805 (20.8241%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.9182% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.9588%.
+
+Pattern: {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')}
+Count: [66604, 2189]
+Target property's support: [82.6240%, 16.2509%]
+Dataset's support: 71.5684%
+Confidence: 96.8180%
+Interpretation:
+The pattern {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')} describes 66604 (82.6240%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 69.2911% of the whole dataset.
+The pattern {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')} describes 2189 (16.2509%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.2773% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.8180%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')}
+Count: [66604, 2189]
+Target property's support: [82.6240%, 16.2509%]
+Dataset's support: 71.5684%
+Confidence: 96.8180%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 66604 (82.6240%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 69.2911% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 2189 (16.2509%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.2773% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.8180%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte')}
+Count: [66604, 2189]
+Target property's support: [82.6240%, 16.2509%]
+Dataset's support: 71.5684%
+Confidence: 96.8180%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte')} describes 66604 (82.6240%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 69.2911% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte')} describes 2189 (16.2509%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.2773% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.8180%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')}
+Count: [66597, 2530]
+Target property's support: [82.6153%, 18.7825%]
+Dataset's support: 71.9159%
+Confidence: 96.3401%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')} describes 66597 (82.6153%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 69.2838% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez')} describes 2530 (18.7825%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.6321% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.3401%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0')}
+Count: [66596, 1914]
+Target property's support: [82.6140%, 14.2094%]
+Dataset's support: 71.2740%
+Confidence: 97.2062%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0')} describes 66596 (82.6140%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 69.2828% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0')} describes 1914 (14.2094%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.9912% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.2062%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Most_used_description_word_material == '0') AND (Most_used_description_word_adquisicion == '0')}
+Count: [62524, 1502]
+Target property's support: [77.5626%, 11.1507%]
+Dataset's support: 66.6091%
+Confidence: 97.6541%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Most_used_description_word_material == '0') AND (Most_used_description_word_adquisicion == '0')} describes 62524 (77.5626%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 65.0465% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Most_used_description_word_material == '0') AND (Most_used_description_word_adquisicion == '0')} describes 1502 (11.1507%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.5626% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.6541%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')}
+Count: [53392, 2650]
+Target property's support: [66.2341%, 19.6733%]
+Dataset's support: 58.3030%
+Confidence: 95.2714%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')} describes 53392 (66.2341%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 55.5461% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')} describes 2650 (19.6733%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.7569% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.2714%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica')}
+Count: [53392, 2960]
+Target property's support: [66.2341%, 21.9748%]
+Dataset's support: 58.6255%
+Confidence: 94.7473%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica')} describes 53392 (66.2341%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 55.5461% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica')} describes 2960 (21.9748%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 3.0794% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 94.7473%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Operador != 'alonso hernandez bravo')}
+Count: [53373, 2732]
+Target property's support: [66.2106%, 20.2821%]
+Dataset's support: 58.3685%
+Confidence: 95.1306%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Operador != 'alonso hernandez bravo')} describes 53373 (66.2106%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 55.5263% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Operador != 'alonso hernandez bravo')} describes 2732 (20.2821%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.8422% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.1306%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0')}
+Count: [51254, 1715]
+Target property's support: [63.5819%, 12.7320%]
+Dataset's support: 55.1060%
+Confidence: 96.7623%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0')} describes 51254 (63.5819%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 53.3218% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0')} describes 1715 (12.7320%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.7842% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.7623%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')}
+Count: [51254, 1447]
+Target property's support: [63.5819%, 10.7424%]
+Dataset's support: 54.8272%
+Confidence: 97.2543%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 51254 (63.5819%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 53.3218% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 1447 (10.7424%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.5054% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.2543%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez')}
+Count: [51246, 1245]
+Target property's support: [63.5720%, 9.2428%]
+Dataset's support: 54.6087%
+Confidence: 97.6282%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez')} describes 51246 (63.5720%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 53.3135% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez')} describes 1245 (9.2428%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.2952% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.6282%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'ma. teresa ramirez fernandez')}
+Count: [51246, 1513]
+Target property's support: [63.5720%, 11.2324%]
+Dataset's support: 54.8875%
+Confidence: 97.1322%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'ma. teresa ramirez fernandez')} describes 51246 (63.5720%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 53.3135% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'ma. teresa ramirez fernandez')} describes 1513 (11.2324%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.5740% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.1322%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica')}
+Count: [51246, 1513]
+Target property's support: [63.5720%, 11.2324%]
+Dataset's support: 54.8875%
+Confidence: 97.1322%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica')} describes 51246 (63.5720%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 53.3135% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica')} describes 1513 (11.2324%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.5740% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.1322%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')}
+Count: [51199, 1077]
+Target property's support: [63.5137%, 7.9955%]
+Dataset's support: 54.3851%
+Confidence: 97.9398%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 51199 (63.5137%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 53.2646% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 1077 (7.9955%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.1205% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.9398%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Operador != 'rolando arturo hernandez ayala')}
+Count: [51199, 1077]
+Target property's support: [63.5137%, 7.9955%]
+Dataset's support: 54.3851%
+Confidence: 97.9398%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Operador != 'rolando arturo hernandez ayala')} describes 51199 (63.5137%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 53.2646% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Operador != 'rolando arturo hernandez ayala')} describes 1077 (7.9955%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.1205% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.9398%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')}
+Count: [51199, 1077]
+Target property's support: [63.5137%, 7.9955%]
+Dataset's support: 54.3851%
+Confidence: 97.9398%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 51199 (63.5137%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 53.2646% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 1077 (7.9955%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.1205% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.9398%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_adquisicion == '0')}
+Count: [49878, 2160]
+Target property's support: [61.8749%, 16.0356%]
+Dataset's support: 54.1375%
+Confidence: 95.8492%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_adquisicion == '0')} describes 49878 (61.8749%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 51.8903% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_adquisicion == '0')} describes 2160 (16.0356%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.2471% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.8492%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Forma_del_procedimiento != 'electronica')}
+Count: [49878, 2160]
+Target property's support: [61.8749%, 16.0356%]
+Dataset's support: 54.1375%
+Confidence: 95.8492%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Forma_del_procedimiento != 'electronica')} describes 49878 (61.8749%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 51.8903% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Forma_del_procedimiento != 'electronica')} describes 2160 (16.0356%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.2471% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.8492%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_servici == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')}
+Count: [48435, 2457]
+Target property's support: [60.0849%, 18.2405%]
+Dataset's support: 52.9452%
+Confidence: 95.1721%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_servici == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 48435 (60.0849%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 50.3891% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_servici == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 2457 (18.2405%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.5561% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.1721%.
+
+Pattern: {(Most_used_description_word_servici == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')}
+Count: [48435, 2457]
+Target property's support: [60.0849%, 18.2405%]
+Dataset's support: 52.9452%
+Confidence: 95.1721%
+Interpretation:
+The pattern {(Most_used_description_word_servici == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 48435 (60.0849%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 50.3891% of the whole dataset.
+The pattern {(Most_used_description_word_servici == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala')} describes 2457 (18.2405%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 2.5561% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 95.1721%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Most_used_description_word_adquisicion == '0')}
+Count: [48023, 935]
+Target property's support: [59.5738%, 6.9414%]
+Dataset's support: 50.9332%
+Confidence: 98.0902%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Most_used_description_word_adquisicion == '0')} describes 48023 (59.5738%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 49.9605% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Most_used_description_word_adquisicion == '0')} describes 935 (6.9414%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.9727% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.0902%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones')}
+Count: [46504, 738]
+Target property's support: [57.6894%, 5.4788%]
+Dataset's support: 49.1480%
+Confidence: 98.4378%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones')} describes 46504 (57.6894%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 48.3802% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones')} describes 738 (5.4788%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.7678% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.4378%.
+
+Pattern: {(Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [46503, 470]
+Target property's support: [57.6882%, 3.4892%]
+Dataset's support: 48.8681%
+Confidence: 98.9994%
+Interpretation:
+The pattern {(Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 46503 (57.6882%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 48.3791% of the whole dataset.
+The pattern {(Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 470 (3.4892%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4890% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.9994%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')}
+Count: [46503, 470]
+Target property's support: [57.6882%, 3.4892%]
+Dataset's support: 48.8681%
+Confidence: 98.9994%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 46503 (57.6882%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 48.3791% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 470 (3.4892%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4890% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.9994%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Operador != 'aminadad plutarco mendoza lopez')}
+Count: [46501, 447]
+Target property's support: [57.6857%, 3.3185%]
+Dataset's support: 48.8421%
+Confidence: 99.0479%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 46501 (57.6857%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 48.3771% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 447 (3.3185%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4650% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.0479%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos')}
+Count: [46480, 712]
+Target property's support: [57.6596%, 5.2858%]
+Dataset's support: 49.0959%
+Confidence: 98.4913%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos')} describes 46480 (57.6596%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 48.3552% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos')} describes 712 (5.2858%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.7407% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.4913%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez')}
+Count: [46480, 699]
+Target property's support: [57.6596%, 5.1893%]
+Dataset's support: 49.0824%
+Confidence: 98.5184%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez')} describes 46480 (57.6596%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 48.3552% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez')} describes 699 (5.1893%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.7272% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.5184%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez')}
+Count: [46479, 457]
+Target property's support: [57.6584%, 3.3927%]
+Dataset's support: 48.8296%
+Confidence: 99.0263%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez')} describes 46479 (57.6584%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 48.3542% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez')} describes 457 (3.3927%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4754% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.0263%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte')}
+Count: [46479, 470]
+Target property's support: [57.6584%, 3.4892%]
+Dataset's support: 48.8431%
+Confidence: 98.9989%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte')} describes 46479 (57.6584%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 48.3542% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte')} describes 470 (3.4892%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4890% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.9989%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [46046, 707]
+Target property's support: [57.1212%, 5.2487%]
+Dataset's support: 48.6392%
+Confidence: 98.4878%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones')} describes 46046 (57.1212%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 47.9037% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones')} describes 707 (5.2487%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.7355% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.4878%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte')}
+Count: [46045, 446]
+Target property's support: [57.1200%, 3.3111%]
+Dataset's support: 48.3667%
+Confidence: 99.0407%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte')} describes 46045 (57.1200%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 47.9027% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte')} describes 446 (3.3111%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4640% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.0407%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0')}
+Count: [46045, 446]
+Target property's support: [57.1200%, 3.3111%]
+Dataset's support: 48.3667%
+Confidence: 99.0407%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0')} describes 46045 (57.1200%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 47.9027% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0')} describes 446 (3.3111%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4640% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.0407%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Operador != 'roberto manriquez gomez')}
+Count: [46045, 433]
+Target property's support: [57.1200%, 3.2146%]
+Dataset's support: 48.3531%
+Confidence: 99.0684%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Operador != 'roberto manriquez gomez')} describes 46045 (57.1200%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 47.9027% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Operador != 'roberto manriquez gomez')} describes 433 (3.2146%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4505% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.0684%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')}
+Count: [46045, 446]
+Target property's support: [57.1200%, 3.3111%]
+Dataset's support: 48.3667%
+Confidence: 99.0407%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 46045 (57.1200%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 47.9027% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 446 (3.3111%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4640% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.0407%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Most_used_description_word_adquisicion == '0')}
+Count: [46025, 433]
+Target property's support: [57.0952%, 3.2146%]
+Dataset's support: 48.3323%
+Confidence: 99.0680%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Most_used_description_word_adquisicion == '0')} describes 46025 (57.0952%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 47.8819% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Most_used_description_word_adquisicion == '0')} describes 433 (3.2146%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4505% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.0680%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Articulo != '43')}
+Count: [43262, 1346]
+Target property's support: [53.6676%, 9.9926%]
+Dataset's support: 46.4077%
+Confidence: 96.9826%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Articulo != '43')} describes 43262 (53.6676%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 45.0074% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Articulo != '43')} describes 1346 (9.9926%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.4003% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.9826%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [42325, 477]
+Target property's support: [52.5052%, 3.5412%]
+Dataset's support: 44.5288%
+Confidence: 98.8856%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones')} describes 42325 (52.5052%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0326% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones')} describes 477 (3.5412%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4962% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.8856%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [42325, 475]
+Target property's support: [52.5052%, 3.5264%]
+Dataset's support: 44.5267%
+Confidence: 98.8902%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')} describes 42325 (52.5052%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0326% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')} describes 475 (3.5264%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4942% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.8902%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [42324, 218]
+Target property's support: [52.5040%, 1.6184%]
+Dataset's support: 44.2583%
+Confidence: 99.4876%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')} describes 42324 (52.5040%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0315% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')} describes 218 (1.6184%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2268% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4876%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')}
+Count: [42324, 220]
+Target property's support: [52.5040%, 1.6333%]
+Dataset's support: 44.2604%
+Confidence: 99.4829%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 42324 (52.5040%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0315% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 220 (1.6333%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2289% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4829%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [42324, 218]
+Target property's support: [52.5040%, 1.6184%]
+Dataset's support: 44.2583%
+Confidence: 99.4876%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 42324 (52.5040%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0315% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 218 (1.6184%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2268% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4876%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [42324, 218]
+Target property's support: [52.5040%, 1.6184%]
+Dataset's support: 44.2583%
+Confidence: 99.4876%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Tipo_de_contratacion != 'adquisiciones')} describes 42324 (52.5040%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0315% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'ma. teresa ramirez fernandez') AND (Operador != 'rolando arturo hernandez ayala') AND (Tipo_de_contratacion != 'adquisiciones')} describes 218 (1.6184%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2268% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4876%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [42324, 220]
+Target property's support: [52.5040%, 1.6333%]
+Dataset's support: 44.2604%
+Confidence: 99.4829%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 42324 (52.5040%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0315% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 220 (1.6333%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2289% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4829%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')}
+Count: [42324, 220]
+Target property's support: [52.5040%, 1.6333%]
+Dataset's support: 44.2604%
+Confidence: 99.4829%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 42324 (52.5040%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0315% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 220 (1.6333%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2289% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4829%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')}
+Count: [42322, 210]
+Target property's support: [52.5015%, 1.5590%]
+Dataset's support: 44.2479%
+Confidence: 99.5063%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 42322 (52.5015%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0295% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 210 (1.5590%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2185% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5063%.
+
+Pattern: {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')}
+Count: [42322, 210]
+Target property's support: [52.5015%, 1.5590%]
+Dataset's support: 44.2479%
+Confidence: 99.5063%
+Interpretation:
+The pattern {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 42322 (52.5015%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0295% of the whole dataset.
+The pattern {(Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 210 (1.5590%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2185% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5063%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Operador != 'israel gaytan rodriguez')}
+Count: [42314, 198]
+Target property's support: [52.4916%, 1.4699%]
+Dataset's support: 44.2271%
+Confidence: 99.5342%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Operador != 'israel gaytan rodriguez')} describes 42314 (52.4916%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0211% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Operador != 'israel gaytan rodriguez')} describes 198 (1.4699%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2060% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5342%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'armida montoya gallegos')}
+Count: [42301, 451]
+Target property's support: [52.4755%, 3.3482%]
+Dataset's support: 44.4768%
+Confidence: 98.9451%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'armida montoya gallegos')} describes 42301 (52.4755%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0076% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'armida montoya gallegos')} describes 451 (3.3482%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4692% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.9451%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez') AND (Most_used_UC_word_gyr == '0')}
+Count: [42301, 451]
+Target property's support: [52.4755%, 3.3482%]
+Dataset's support: 44.4768%
+Confidence: 98.9451%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez') AND (Most_used_UC_word_gyr == '0')} describes 42301 (52.4755%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0076% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez') AND (Most_used_UC_word_gyr == '0')} describes 451 (3.3482%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4692% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.9451%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte')}
+Count: [42300, 218]
+Target property's support: [52.4742%, 1.6184%]
+Dataset's support: 44.2334%
+Confidence: 99.4873%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte')} describes 42300 (52.4742%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0066% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Plantilla != 'reporte')} describes 218 (1.6184%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2268% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4873%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0')}
+Count: [42300, 220]
+Target property's support: [52.4742%, 1.6333%]
+Dataset's support: 44.2355%
+Confidence: 99.4826%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0')} describes 42300 (52.4742%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 44.0066% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'roberto manriquez gomez') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0')} describes 220 (1.6333%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2289% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4826%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [41913, 465]
+Target property's support: [51.9941%, 3.4521%]
+Dataset's support: 44.0877%
+Confidence: 98.9027%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones')} describes 41913 (51.9941%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 43.6040% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones')} describes 465 (3.4521%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4838% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.9027%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [41912, 214]
+Target property's support: [51.9929%, 1.5887%]
+Dataset's support: 43.8256%
+Confidence: 99.4920%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones')} describes 41912 (51.9929%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 43.6029% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones')} describes 214 (1.5887%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2226% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4920%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos')}
+Count: [41893, 444]
+Target property's support: [51.9693%, 3.2962%]
+Dataset's support: 44.0451%
+Confidence: 98.9513%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos')} describes 41893 (51.9693%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 43.5832% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos')} describes 444 (3.2962%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4619% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.9513%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'contratos')}
+Count: [41839, 205]
+Target property's support: [51.9023%, 1.5219%]
+Dataset's support: 43.7402%
+Confidence: 99.5124%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'contratos')} describes 41839 (51.9023%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 43.5270% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'contratos')} describes 205 (1.5219%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2133% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5124%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos')}
+Count: [41839, 205]
+Target property's support: [51.9023%, 1.5219%]
+Dataset's support: 43.7402%
+Confidence: 99.5124%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos')} describes 41839 (51.9023%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 43.5270% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos')} describes 205 (1.5219%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2133% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5124%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos') AND (Operador != 'aminadad plutarco mendoza lopez')}
+Count: [41837, 195]
+Target property's support: [51.8999%, 1.4477%]
+Dataset's support: 43.7278%
+Confidence: 99.5361%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 41837 (51.8999%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 43.5249% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 195 (1.4477%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2029% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5361%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Plantilla != 'contratos')}
+Count: [41837, 195]
+Target property's support: [51.8999%, 1.4477%]
+Dataset's support: 43.7278%
+Confidence: 99.5361%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Plantilla != 'contratos')} describes 41837 (51.8999%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 43.5249% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Plantilla != 'contratos')} describes 195 (1.4477%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2029% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5361%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'contratos') AND (Operador != 'aminadad plutarco mendoza lopez')}
+Count: [41837, 195]
+Target property's support: [51.8999%, 1.4477%]
+Dataset's support: 43.7278%
+Confidence: 99.5361%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'contratos') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 41837 (51.8999%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 43.5249% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'contratos') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 195 (1.4477%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2029% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5361%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_material == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')}
+Count: [41274, 202]
+Target property's support: [51.2014%, 1.4996%]
+Dataset's support: 43.1493%
+Confidence: 99.5130%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_material == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 41274 (51.2014%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 42.9392% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_material == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'aminadad plutarco mendoza lopez')} describes 202 (1.4996%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2101% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5130%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Tipo_de_contratacion != 'obra publica')}
+Count: [39561, 709]
+Target property's support: [49.0764%, 5.2635%]
+Dataset's support: 41.8947%
+Confidence: 98.2394%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Tipo_de_contratacion != 'obra publica')} describes 39561 (49.0764%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 41.1571% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Tipo_de_contratacion != 'obra publica')} describes 709 (5.2635%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.7376% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.2394%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Tipo_de_contratacion != 'obra publica')}
+Count: [39560, 445]
+Target property's support: [49.0752%, 3.3036%]
+Dataset's support: 41.6190%
+Confidence: 98.8876%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Tipo_de_contratacion != 'obra publica')} describes 39560 (49.0752%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 41.1560% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Tipo_de_contratacion != 'obra publica')} describes 445 (3.3036%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4630% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.8876%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Tipo_de_contratacion != 'obra publica')}
+Count: [39104, 422]
+Target property's support: [48.5095%, 3.1329%]
+Dataset's support: 41.1207%
+Confidence: 98.9323%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Tipo_de_contratacion != 'obra publica')} describes 39104 (48.5095%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 40.6816% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_description_word_adquisicion == '0') AND (Plantilla != 'reporte') AND (Operador != 'roberto manriquez gomez') AND (Tipo_de_contratacion != 'obra publica')} describes 422 (3.1329%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.4390% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 98.9323%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_servici == '0') AND (Forma_del_procedimiento != 'electronica')}
+Count: [36326, 1388]
+Target property's support: [45.0633%, 10.3044%]
+Dataset's support: 39.2356%
+Confidence: 96.3197%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_servici == '0') AND (Forma_del_procedimiento != 'electronica')} describes 36326 (45.0633%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 37.7916% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Most_used_description_word_servici == '0') AND (Forma_del_procedimiento != 'electronica')} describes 1388 (10.3044%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.4440% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.3197%.
+
+Pattern: {(Most_used_description_word_servici == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')}
+Count: [36326, 1388]
+Target property's support: [45.0633%, 10.3044%]
+Dataset's support: 39.2356%
+Confidence: 96.3197%
+Interpretation:
+The pattern {(Most_used_description_word_servici == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 36326 (45.0633%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 37.7916% of the whole dataset.
+The pattern {(Most_used_description_word_servici == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte')} describes 1388 (10.3044%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.4440% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.3197%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_servici == '0')}
+Count: [36326, 1388]
+Target property's support: [45.0633%, 10.3044%]
+Dataset's support: 39.2356%
+Confidence: 96.3197%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_servici == '0')} describes 36326 (45.0633%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 37.7916% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_servici == '0')} describes 1388 (10.3044%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.4440% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.3197%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_servici == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica')}
+Count: [36318, 1407]
+Target property's support: [45.0534%, 10.4454%]
+Dataset's support: 39.2470%
+Confidence: 96.2704%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_servici == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica')} describes 36318 (45.0534%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 37.7832% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_description_word_servici == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica')} describes 1407 (10.4454%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 1.4638% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 96.2704%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Articulo != 'no')}
+Count: [35940, 154]
+Target property's support: [44.5845%, 1.1433%]
+Dataset's support: 37.5502%
+Confidence: 99.5733%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Articulo != 'no')} describes 35940 (44.5845%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 37.3900% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Operador != 'aminadad plutarco mendoza lopez') AND (Articulo != 'no')} describes 154 (1.1433%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1602% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5733%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Most_used_description_word_material == '0') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_general == '0')}
+Count: [35813, 938]
+Target property's support: [44.4269%, 6.9636%]
+Dataset's support: 38.2337%
+Confidence: 97.4477%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_description_word_material == '0') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_general == '0')} describes 35813 (44.4269%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 37.2579% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_description_word_material == '0') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_general == '0')} describes 938 (6.9636%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.9758% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 97.4477%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla != 'reporte')}
+Count: [33293, 198]
+Target property's support: [41.3008%, 1.4699%]
+Dataset's support: 34.8422%
+Confidence: 99.4088%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla != 'reporte')} describes 33293 (41.3008%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 34.6362% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla != 'reporte')} describes 198 (1.4699%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2060% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4088%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica')}
+Count: [29329, 251]
+Target property's support: [36.3834%, 1.8634%]
+Dataset's support: 30.7734%
+Confidence: 99.1515%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica')} describes 29329 (36.3834%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 30.5123% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica')} describes 251 (1.8634%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2611% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.1515%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [29329, 251]
+Target property's support: [36.3834%, 1.8634%]
+Dataset's support: 30.7734%
+Confidence: 99.1515%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones')} describes 29329 (36.3834%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 30.5123% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones')} describes 251 (1.8634%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2611% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.1515%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')}
+Count: [29329, 164]
+Target property's support: [36.3834%, 1.2175%]
+Dataset's support: 30.6829%
+Confidence: 99.4439%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 29329 (36.3834%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 30.5123% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 164 (1.2175%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1706% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4439%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Operador != 'israel gaytan rodriguez')}
+Count: [29328, 152]
+Target property's support: [36.3821%, 1.1284%]
+Dataset's support: 30.6694%
+Confidence: 99.4844%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Operador != 'israel gaytan rodriguez')} describes 29328 (36.3821%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 30.5112% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Operador != 'israel gaytan rodriguez')} describes 152 (1.1284%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1581% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4844%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez') AND (Operador != 'victoria yrene meyer campos') AND (Plantilla != 'reporte')}
+Count: [29318, 137]
+Target property's support: [36.3697%, 1.0171%]
+Dataset's support: 30.6433%
+Confidence: 99.5349%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez') AND (Operador != 'victoria yrene meyer campos') AND (Plantilla != 'reporte')} describes 29318 (36.3697%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 30.5008% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez') AND (Operador != 'victoria yrene meyer campos') AND (Plantilla != 'reporte')} describes 137 (1.0171%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1425% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5349%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez')}
+Count: [29078, 147]
+Target property's support: [36.0720%, 1.0913%]
+Dataset's support: 30.4041%
+Confidence: 99.4970%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez')} describes 29078 (36.0720%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 30.2511% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Most_used_description_word_adquisicion == '0') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez')} describes 147 (1.0913%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1529% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.4970%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'israel gaytan rodriguez') AND (Plantilla != 'contratos')}
+Count: [28898, 143]
+Target property's support: [35.8487%, 1.0616%]
+Dataset's support: 30.2126%
+Confidence: 99.5076%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'israel gaytan rodriguez') AND (Plantilla != 'contratos')} describes 28898 (35.8487%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 30.0639% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'israel gaytan rodriguez') AND (Plantilla != 'contratos')} describes 143 (1.0616%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1488% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5076%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez') AND (Plantilla != 'contratos')}
+Count: [28898, 143]
+Target property's support: [35.8487%, 1.0616%]
+Dataset's support: 30.2126%
+Confidence: 99.5076%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez') AND (Plantilla != 'contratos')} describes 28898 (35.8487%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 30.0639% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte') AND (Forma_del_procedimiento != 'electronica') AND (Operador != 'israel gaytan rodriguez') AND (Plantilla != 'contratos')} describes 143 (1.0616%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1488% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.5076%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Mes_pub <= 6) AND (Articulo != 'no')}
+Count: [28432, 111]
+Target property's support: [35.2706%, 0.8241%]
+Dataset's support: 29.6946%
+Confidence: 99.6111%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Mes_pub <= 6) AND (Articulo != 'no')} describes 28432 (35.2706%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.5791% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones') AND (Mes_pub <= 6) AND (Articulo != 'no')} describes 111 (0.8241%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1155% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.6111%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')}
+Count: [27946, 106]
+Target property's support: [34.6677%, 0.7869%]
+Dataset's support: 29.1837%
+Confidence: 99.6221%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 27946 (34.6677%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0735% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 106 (0.7869%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1103% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.6221%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Operador != 'alonso hernandez bravo') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [27946, 193]
+Target property's support: [34.6677%, 1.4328%]
+Dataset's support: 29.2743%
+Confidence: 99.3141%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Operador != 'alonso hernandez bravo') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')} describes 27946 (34.6677%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0735% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Operador != 'alonso hernandez bravo') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Tipo_de_contratacion != 'adquisiciones')} describes 193 (1.4328%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2008% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.3141%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')}
+Count: [27946, 107]
+Target property's support: [34.6677%, 0.7944%]
+Dataset's support: 29.1848%
+Confidence: 99.6186%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')} describes 27946 (34.6677%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0735% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')} describes 107 (0.7944%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1113% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.6186%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [27946, 106]
+Target property's support: [34.6677%, 0.7869%]
+Dataset's support: 29.1837%
+Confidence: 99.6221%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 27946 (34.6677%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0735% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'ma. teresa ramirez fernandez') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 106 (0.7869%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1103% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.6221%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')}
+Count: [27946, 107]
+Target property's support: [34.6677%, 0.7944%]
+Dataset's support: 29.1848%
+Confidence: 99.6186%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 27946 (34.6677%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0735% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'reporte')} describes 107 (0.7944%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1113% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.6186%.
+
+Pattern: {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')}
+Count: [27946, 107]
+Target property's support: [34.6677%, 0.7944%]
+Dataset's support: 29.1848%
+Confidence: 99.6186%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')} describes 27946 (34.6677%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0735% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte')} describes 107 (0.7944%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1113% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.6186%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica')}
+Count: [27946, 194]
+Target property's support: [34.6677%, 1.4402%]
+Dataset's support: 29.2753%
+Confidence: 99.3106%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica')} describes 27946 (34.6677%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0735% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Forma_del_procedimiento != 'electronica')} describes 194 (1.4402%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.2018% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.3106%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'israel gaytan rodriguez') AND (Operador != 'edgar alfredo hurtado bassoco')}
+Count: [27942, 174]
+Target property's support: [34.6628%, 1.2918%]
+Dataset's support: 29.2503%
+Confidence: 99.3811%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'israel gaytan rodriguez') AND (Operador != 'edgar alfredo hurtado bassoco')} describes 27942 (34.6628%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0693% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Tipo_de_contratacion != 'adquisiciones') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'israel gaytan rodriguez') AND (Operador != 'edgar alfredo hurtado bassoco')} describes 174 (1.2918%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1810% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.3811%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento != 'electronica')}
+Count: [27939, 186]
+Target property's support: [34.6590%, 1.3808%]
+Dataset's support: 29.2597%
+Confidence: 99.3387%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento != 'electronica')} describes 27939 (34.6590%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 29.0662% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento != 'electronica')} describes 186 (1.3808%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1935% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.3387%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos')}
+Count: [27552, 98]
+Target property's support: [34.1790%, 0.7275%]
+Dataset's support: 28.7655%
+Confidence: 99.6456%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos')} describes 27552 (34.1790%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 28.6636% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla != 'reporte') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'adquisiciones') AND (Plantilla != 'contratos')} describes 98 (0.7275%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1020% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.6456%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_material == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')}
+Count: [27354, 102]
+Target property's support: [33.9333%, 0.7572%]
+Dataset's support: 28.5637%
+Confidence: 99.6285%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_material == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 27354 (33.9333%) of the objects in the class {Caracter_del_procedimiento == 'nacional'}. These objects are 28.4576% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'electronica') AND (Most_used_description_word_material == '0') AND (Plantilla != 'reporte') AND (Tipo_de_contratacion != 'adquisiciones')} describes 102 (0.7572%) of the objects outside the class {Caracter_del_procedimiento == 'nacional'}. These objects are 0.1061% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'nacional'} given that the object fulfills the pattern is 99.6285%.
+
+********************* Class: {Caracter_del_procedimiento == 'otro'}' *********************
+Pattern: {(Plantilla == 'reporte')}
+Count: [861, 1]
+Target property's support: [98.1756%, 0.0011%]
+Dataset's support: 0.8968%
+Confidence: 99.8840%
+Interpretation:
+The pattern {(Plantilla == 'reporte')} describes 861 (98.1756%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.8957% of the whole dataset.
+The pattern {(Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.8840%.
+
+Pattern: {(Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [859, 0]
+Target property's support: [97.9475%, 0.0000%]
+Dataset's support: 0.8937%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 859 (97.9475%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.8937% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Plantilla == 'reporte') AND (Hora_pub > 8)}
+Count: [825, 0]
+Target property's support: [94.0707%, 0.0000%]
+Dataset's support: 0.8583%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Hora_pub > 8)} describes 825 (94.0707%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.8583% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Hora_pub > 8)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte')}
+Count: [806, 1]
+Target property's support: [91.9042%, 0.0011%]
+Dataset's support: 0.8396%
+Confidence: 99.8761%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte')} describes 806 (91.9042%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.8385% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.8761%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [804, 0]
+Target property's support: [91.6762%, 0.0000%]
+Dataset's support: 0.8364%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 804 (91.6762%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.8364% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Hora_pub > 8)}
+Count: [770, 0]
+Target property's support: [87.7993%, 0.0000%]
+Dataset's support: 0.8011%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 770 (87.7993%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.8011% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')}
+Count: [766, 1]
+Target property's support: [87.3432%, 0.0011%]
+Dataset's support: 0.7979%
+Confidence: 99.8696%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')} describes 766 (87.3432%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.7969% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.8696%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [764, 0]
+Target property's support: [87.1152%, 0.0000%]
+Dataset's support: 0.7948%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 764 (87.1152%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.7948% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [744, 0]
+Target property's support: [84.8347%, 0.0000%]
+Dataset's support: 0.7740%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 744 (84.8347%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.7740% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')}
+Count: [648, 0]
+Target property's support: [73.8883%, 0.0000%]
+Dataset's support: 0.6741%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')} describes 648 (73.8883%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.6741% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')}
+Count: [646, 0]
+Target property's support: [73.6602%, 0.0000%]
+Dataset's support: 0.6721%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')} describes 646 (73.6602%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.6721% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Plantilla == 'reporte') AND (Tipo_de_contratacion != 'servicios')}
+Count: [620, 0]
+Target property's support: [70.6956%, 0.0000%]
+Dataset's support: 0.6450%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Tipo_de_contratacion != 'servicios')} describes 620 (70.6956%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.6450% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Tipo_de_contratacion != 'servicios')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')}
+Count: [593, 0]
+Target property's support: [67.6169%, 0.0000%]
+Dataset's support: 0.6169%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')} describes 593 (67.6169%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.6169% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Plantilla == 'reporte') AND (Dia_pub <= 20)}
+Count: [573, 0]
+Target property's support: [65.3364%, 0.0000%]
+Dataset's support: 0.5961%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Dia_pub <= 20)} describes 573 (65.3364%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5961% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Dia_pub <= 20)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte')}
+Count: [572, 1]
+Target property's support: [65.2223%, 0.0011%]
+Dataset's support: 0.5961%
+Confidence: 99.8255%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte')} describes 572 (65.2223%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5951% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.8255%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [570, 0]
+Target property's support: [64.9943%, 0.0000%]
+Dataset's support: 0.5930%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 570 (64.9943%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5930% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')}
+Count: [564, 0]
+Target property's support: [64.3101%, 0.0000%]
+Dataset's support: 0.5868%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')} describes 564 (64.3101%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5868% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Hora_pub > 8)}
+Count: [553, 0]
+Target property's support: [63.0559%, 0.0000%]
+Dataset's support: 0.5753%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 553 (63.0559%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5753% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')}
+Count: [553, 0]
+Target property's support: [63.0559%, 0.0000%]
+Dataset's support: 0.5753%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')} describes 553 (63.0559%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5753% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte')}
+Count: [550, 1]
+Target property's support: [62.7138%, 0.0011%]
+Dataset's support: 0.5732%
+Confidence: 99.8185%
+Interpretation:
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte')} describes 550 (62.7138%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5722% of the whole dataset.
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.8185%.
+
+Pattern: {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [548, 0]
+Target property's support: [62.4857%, 0.0000%]
+Dataset's support: 0.5701%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 548 (62.4857%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5701% of the whole dataset.
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Dia_pub <= 20)}
+Count: [528, 0]
+Target property's support: [60.2052%, 0.0000%]
+Dataset's support: 0.5493%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Dia_pub <= 20)} describes 528 (60.2052%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5493% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Dia_pub <= 20)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Hora_pub > 8)}
+Count: [521, 0]
+Target property's support: [59.4071%, 0.0000%]
+Dataset's support: 0.5420%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 521 (59.4071%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5420% of the whole dataset.
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte')}
+Count: [517, 1]
+Target property's support: [58.9510%, 0.0011%]
+Dataset's support: 0.5389%
+Confidence: 99.8069%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte')} describes 517 (58.9510%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5379% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.8069%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte')}
+Count: [503, 1]
+Target property's support: [57.3546%, 0.0011%]
+Dataset's support: 0.5243%
+Confidence: 99.8016%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte')} describes 503 (57.3546%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5233% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.8016%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [501, 0]
+Target property's support: [57.1266%, 0.0000%]
+Dataset's support: 0.5212%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 501 (57.1266%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5212% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Hora_pub > 8)}
+Count: [498, 0]
+Target property's support: [56.7845%, 0.0000%]
+Dataset's support: 0.5181%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 498 (56.7845%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5181% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Hora_pub > 8)}
+Count: [498, 0]
+Target property's support: [56.7845%, 0.0000%]
+Dataset's support: 0.5181%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 498 (56.7845%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5181% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Forma_del_procedimiento == 'electronica') AND (Mes_pub > 2) AND (Plantilla == 'reporte')}
+Count: [488, 1]
+Target property's support: [55.6442%, 0.0011%]
+Dataset's support: 0.5087%
+Confidence: 99.7955%
+Interpretation:
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Mes_pub > 2) AND (Plantilla == 'reporte')} describes 488 (55.6442%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5077% of the whole dataset.
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Mes_pub > 2) AND (Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.7955%.
+
+Pattern: {(Plantilla == 'reporte') AND (Mes_pub <= 5)}
+Count: [486, 0]
+Target property's support: [55.4162%, 0.0000%]
+Dataset's support: 0.5056%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Mes_pub <= 5)} describes 486 (55.4162%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.5056% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Mes_pub <= 5)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [475, 0]
+Target property's support: [54.1619%, 0.0000%]
+Dataset's support: 0.4942%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 475 (54.1619%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.4942% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte') AND (Hora_pub > 8)}
+Count: [459, 0]
+Target property's support: [52.3375%, 0.0000%]
+Dataset's support: 0.4775%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 459 (52.3375%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.4775% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Operador != 'armida montoya gallegos') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte') AND (Hora_pub > 8)} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [402, 0]
+Target property's support: [45.8381%, 0.0000%]
+Dataset's support: 0.4182%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 402 (45.8381%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.4182% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'reporte') AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')}
+Count: [384, 0]
+Target property's support: [43.7856%, 0.0000%]
+Dataset's support: 0.3995%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')} describes 384 (43.7856%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.3995% of the whole dataset.
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Forma_del_procedimiento == 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')}
+Count: [377, 0]
+Target property's support: [42.9875%, 0.0000%]
+Dataset's support: 0.3922%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')} describes 377 (42.9875%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.3922% of the whole dataset.
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'reporte') AND (Most_used_description_word_servici == '0')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Plantilla == 'reporte') AND (Mes_pub > 5)}
+Count: [375, 1]
+Target property's support: [42.7594%, 0.0011%]
+Dataset's support: 0.3912%
+Confidence: 99.7340%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Mes_pub > 5)} describes 375 (42.7594%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.3901% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Mes_pub > 5)} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.7340%.
+
+Pattern: {(Forma_del_procedimiento == 'electronica') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')}
+Count: [370, 0]
+Target property's support: [42.1893%, 0.0000%]
+Dataset's support: 0.3849%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')} describes 370 (42.1893%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.3849% of the whole dataset.
+The pattern {(Forma_del_procedimiento == 'electronica') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Forma_del_procedimiento != 'presencial') AND (Plantilla == 'reporte')}
+Count: [345, 1]
+Target property's support: [39.3387%, 0.0011%]
+Dataset's support: 0.3600%
+Confidence: 99.7110%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Forma_del_procedimiento != 'presencial') AND (Plantilla == 'reporte')} describes 345 (39.3387%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.3589% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '0') AND (Forma_del_procedimiento != 'presencial') AND (Plantilla == 'reporte')} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.7110%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Plantilla == 'reporte')}
+Count: [310, 0]
+Target property's support: [35.3478%, 0.0000%]
+Dataset's support: 0.3225%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla == 'reporte')} describes 310 (35.3478%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.3225% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '1') AND (Plantilla == 'reporte')}
+Count: [289, 0]
+Target property's support: [32.9532%, 0.0000%]
+Dataset's support: 0.3007%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '1') AND (Plantilla == 'reporte')} describes 289 (32.9532%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.3007% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Most_used_UC_word_general == '1') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Most_used_UC_word_general == '1') AND (Plantilla == 'reporte')}
+Count: [289, 0]
+Target property's support: [32.9532%, 0.0000%]
+Dataset's support: 0.3007%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '1') AND (Plantilla == 'reporte')} describes 289 (32.9532%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.3007% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '1') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Plantilla == 'reporte') AND (Dia_pub > 20)}
+Count: [288, 1]
+Target property's support: [32.8392%, 0.0011%]
+Dataset's support: 0.3007%
+Confidence: 99.6540%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Dia_pub > 20)} describes 288 (32.8392%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.2996% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Dia_pub > 20)} describes 1 (0.0011%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0010% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 99.6540%.
+
+Pattern: {(Plantilla == 'reporte') AND (Dia_pub > 20) AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [287, 0]
+Target property's support: [32.7252%, 0.0000%]
+Dataset's support: 0.2986%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Plantilla == 'reporte') AND (Dia_pub > 20) AND (Operador != 'maria guadalupe de los santos saucedo')} describes 287 (32.7252%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.2986% of the whole dataset.
+The pattern {(Plantilla == 'reporte') AND (Dia_pub > 20) AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Dia_pub > 20) AND (Operador != 'maria guadalupe de los santos saucedo')}
+Count: [277, 0]
+Target property's support: [31.5849%, 0.0000%]
+Dataset's support: 0.2882%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Dia_pub > 20) AND (Operador != 'maria guadalupe de los santos saucedo')} describes 277 (31.5849%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.2882% of the whole dataset.
+The pattern {(Operador != 'armida montoya gallegos') AND (Plantilla == 'reporte') AND (Dia_pub > 20) AND (Operador != 'maria guadalupe de los santos saucedo')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Forma_del_procedimiento != 'electronica') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')}
+Count: [271, 0]
+Target property's support: [30.9008%, 0.0000%]
+Dataset's support: 0.2819%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')} describes 271 (30.9008%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.2819% of the whole dataset.
+The pattern {(Forma_del_procedimiento != 'electronica') AND (Operador != 'victor gerardo nieves sosa') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+Pattern: {(Most_used_UC_word_general == '1') AND (Operador != 'edgar alfredo hurtado bassoco') AND (Plantilla == 'reporte')}
+Count: [270, 0]
+Target property's support: [30.7868%, 0.0000%]
+Dataset's support: 0.2809%
+Confidence: 100.0000%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '1') AND (Operador != 'edgar alfredo hurtado bassoco') AND (Plantilla == 'reporte')} describes 270 (30.7868%) of the objects in the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.2809% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '1') AND (Operador != 'edgar alfredo hurtado bassoco') AND (Plantilla == 'reporte')} describes 0 (0.0000%) of the objects outside the class {Caracter_del_procedimiento == 'otro'}. These objects are 0.0000% of the whole dataset.
+The probability that an object fulfills the property {Caracter_del_procedimiento == 'otro'} given that the object fulfills the pattern is 100.0000%.
+
+That's all folks!

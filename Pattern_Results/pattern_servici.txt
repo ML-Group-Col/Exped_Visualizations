@@ -1,0 +1,1623 @@
+********************* Class: {Most_used_description_word_servici == '0'}' *********************
+Pattern: {(Tipo_de_contratacion != 'servicios')}
+Count: [55762, 1871]
+Target property's support: [80.9294%, 6.8736%]
+Dataset's support: 59.9582%
+Confidence: 96.7536%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios')} describes 55762 (80.9294%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 58.0117% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios')} describes 1871 (6.8736%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.9465% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.7536%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')}
+Count: [55731, 1756]
+Target property's support: [80.8844%, 6.4511%]
+Dataset's support: 59.8063%
+Confidence: 96.9454%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')} describes 55731 (80.8844%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.9794% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')} describes 1756 (6.4511%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.8268% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.9454%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')}
+Count: [55731, 1751]
+Target property's support: [80.8844%, 6.4328%]
+Dataset's support: 59.8011%
+Confidence: 96.9538%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')} describes 55731 (80.8844%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.9794% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')} describes 1751 (6.4328%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.8216% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.9538%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')}
+Count: [55646, 1647]
+Target property's support: [80.7611%, 6.0507%]
+Dataset's support: 59.6045%
+Confidence: 97.1253%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')} describes 55646 (80.7611%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.8910% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')} describes 1647 (6.0507%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.7134% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.1253%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos')}
+Count: [55645, 1604]
+Target property's support: [80.7596%, 5.8927%]
+Dataset's support: 59.5587%
+Confidence: 97.1982%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos')} describes 55645 (80.7596%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.8900% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos')} describes 1604 (5.8927%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.6687% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.1982%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [55265, 1663]
+Target property's support: [80.2081%, 6.1095%]
+Dataset's support: 59.2247%
+Confidence: 97.0788%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')} describes 55265 (80.2081%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.4946% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')} describes 1663 (6.1095%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.7301% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.0788%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez')}
+Count: [55234, 1548]
+Target property's support: [80.1631%, 5.6870%]
+Dataset's support: 59.0728%
+Confidence: 97.2738%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez')} describes 55234 (80.1631%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.4624% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez')} describes 1548 (5.6870%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.6105% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.2738%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'lilia eugenia rangel gabela')}
+Count: [55149, 1439]
+Target property's support: [80.0398%, 5.2866%]
+Dataset's support: 58.8710%
+Confidence: 97.4571%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'lilia eugenia rangel gabela')} describes 55149 (80.0398%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.3740% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'lilia eugenia rangel gabela')} describes 1439 (5.2866%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.4971% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.4571%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')}
+Count: [55149, 1439]
+Target property's support: [80.0398%, 5.2866%]
+Dataset's support: 58.8710%
+Confidence: 97.4571%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')} describes 55149 (80.0398%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.3740% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')} describes 1439 (5.2866%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.4971% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.4571%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [55149, 1439]
+Target property's support: [80.0398%, 5.2866%]
+Dataset's support: 58.8710%
+Confidence: 97.4571%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')} describes 55149 (80.0398%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.3740% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')} describes 1439 (5.2866%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.4971% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.4571%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'armida montoya gallegos')}
+Count: [55148, 1396]
+Target property's support: [80.0383%, 5.1286%]
+Dataset's support: 58.8252%
+Confidence: 97.5311%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'armida montoya gallegos')} describes 55148 (80.0383%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.3729% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'armida montoya gallegos')} describes 1396 (5.1286%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.4523% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.5311%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [55148, 1396]
+Target property's support: [80.0383%, 5.1286%]
+Dataset's support: 58.8252%
+Confidence: 97.5311%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos') AND (Tipo_de_contratacion != 'arrendamientos')} describes 55148 (80.0383%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 57.3729% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos') AND (Tipo_de_contratacion != 'arrendamientos')} describes 1396 (5.1286%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.4523% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.5311%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios')}
+Count: [51215, 1616]
+Target property's support: [74.3302%, 5.9368%]
+Dataset's support: 54.9624%
+Confidence: 96.9412%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios')} describes 51215 (74.3302%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 53.2812% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios')} describes 1616 (5.9368%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.6812% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.9412%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')}
+Count: [51184, 1501]
+Target property's support: [74.2852%, 5.5143%]
+Dataset's support: 54.8106%
+Confidence: 97.1510%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')} describes 51184 (74.2852%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 53.2490% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')} describes 1501 (5.5143%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.5616% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.1510%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')}
+Count: [51099, 1392]
+Target property's support: [74.1619%, 5.1139%]
+Dataset's support: 54.6087%
+Confidence: 97.3481%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')} describes 51099 (74.1619%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 53.1606% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')} describes 1392 (5.1139%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.4482% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.3481%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [50749, 1338]
+Target property's support: [73.6539%, 4.9155%]
+Dataset's support: 54.1884%
+Confidence: 97.4312%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos')} describes 50749 (73.6539%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 52.7964% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos')} describes 1338 (4.9155%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.3920% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.4312%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [50664, 1229]
+Target property's support: [73.5305%, 4.5151%]
+Dataset's support: 53.9866%
+Confidence: 97.6317%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')} describes 50664 (73.5305%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 52.7080% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')} describes 1229 (4.5151%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.2786% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.6317%.
+
+Pattern: {(Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos')}
+Count: [49741, 1288]
+Target property's support: [72.1909%, 4.7318%]
+Dataset's support: 53.0877%
+Confidence: 97.4759%
+Interpretation:
+The pattern {(Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos')} describes 49741 (72.1909%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 51.7478% of the whole dataset.
+The pattern {(Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Operador != 'armida montoya gallegos')} describes 1288 (4.7318%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.3400% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.4759%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43')}
+Count: [43971, 960]
+Target property's support: [63.8167%, 3.5268%]
+Dataset's support: 46.7437%
+Confidence: 97.8634%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43')} describes 43971 (63.8167%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.7450% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43')} describes 960 (3.5268%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.9987% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.8634%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43')}
+Count: [43971, 955]
+Target property's support: [63.8167%, 3.5084%]
+Dataset's support: 46.7385%
+Confidence: 97.8743%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43')} describes 43971 (63.8167%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.7450% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43')} describes 955 (3.5084%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.9935% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.8743%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')}
+Count: [43965, 934]
+Target property's support: [63.8080%, 3.4313%]
+Dataset's support: 46.7104%
+Confidence: 97.9198%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')} describes 43965 (63.8080%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.7387% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')} describes 934 (3.4313%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.9717% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.9198%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones')}
+Count: [43963, 858]
+Target property's support: [63.8051%, 3.1521%]
+Dataset's support: 46.6293%
+Confidence: 98.0857%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones')} describes 43963 (63.8051%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.7367% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones')} describes 858 (3.1521%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.8926% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.0857%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'diego francisco gonzalez trejo')}
+Count: [43956, 789]
+Target property's support: [63.7950%, 2.8986%]
+Dataset's support: 46.5502%
+Confidence: 98.2367%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'diego francisco gonzalez trejo')} describes 43956 (63.7950%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.7294% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'armida montoya gallegos') AND (Operador != 'diego francisco gonzalez trejo')} describes 789 (2.8986%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.8208% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.2367%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')}
+Count: [43534, 778]
+Target property's support: [63.1825%, 2.8582%]
+Dataset's support: 46.0997%
+Confidence: 98.2443%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')} describes 43534 (63.1825%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.2904% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')} describes 778 (2.8582%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.8094% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.2443%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [43534, 778]
+Target property's support: [63.1825%, 2.8582%]
+Dataset's support: 46.0997%
+Confidence: 98.2443%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 43534 (63.1825%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.2904% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 778 (2.8582%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.8094% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.2443%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')}
+Count: [43528, 752]
+Target property's support: [63.1738%, 2.7627%]
+Dataset's support: 46.0665%
+Confidence: 98.3017%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')} describes 43528 (63.1738%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.2841% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')} describes 752 (2.7627%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7823% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.3017%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')}
+Count: [43528, 752]
+Target property's support: [63.1738%, 2.7627%]
+Dataset's support: 46.0665%
+Confidence: 98.3017%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')} describes 43528 (63.1738%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.2841% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')} describes 752 (2.7627%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7823% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.3017%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')}
+Count: [43490, 1130]
+Target property's support: [63.1186%, 4.1514%]
+Dataset's support: 46.4202%
+Confidence: 97.4675%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')} describes 43490 (63.1186%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.2446% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')} describes 1130 (4.1514%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.1756% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.4675%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion')}
+Count: [43409, 934]
+Target property's support: [63.0011%, 3.4313%]
+Dataset's support: 46.1320%
+Confidence: 97.8937%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion')} describes 43409 (63.0011%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 45.1603% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion')} describes 934 (3.4313%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.9717% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.8937%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Plantilla == 'adjudicacion') AND (Operador != 'jose campomanes dominguez')}
+Count: [43058, 851]
+Target property's support: [62.4917%, 3.1264%]
+Dataset's support: 45.6805%
+Confidence: 98.0619%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Plantilla == 'adjudicacion') AND (Operador != 'jose campomanes dominguez')} describes 43058 (62.4917%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 44.7952% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Plantilla == 'adjudicacion') AND (Operador != 'jose campomanes dominguez')} describes 851 (3.1264%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.8853% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.0619%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion')}
+Count: [43004, 767]
+Target property's support: [62.4133%, 2.8178%]
+Dataset's support: 45.5369%
+Confidence: 98.2477%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion')} describes 43004 (62.4133%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 44.7390% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion')} describes 767 (2.8178%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7979% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.2477%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [43004, 767]
+Target property's support: [62.4133%, 2.8178%]
+Dataset's support: 45.5369%
+Confidence: 98.2477%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'arrendamientos')} describes 43004 (62.4133%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 44.7390% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'arrendamientos')} describes 767 (2.8178%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7979% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.2477%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [43004, 767]
+Target property's support: [62.4133%, 2.8178%]
+Dataset's support: 45.5369%
+Confidence: 98.2477%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')} describes 43004 (62.4133%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 44.7390% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos')} describes 767 (2.8178%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7979% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.2477%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Plantilla == 'adjudicacion')}
+Count: [43004, 767]
+Target property's support: [62.4133%, 2.8178%]
+Dataset's support: 45.5369%
+Confidence: 98.2477%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Plantilla == 'adjudicacion')} describes 43004 (62.4133%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 44.7390% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Plantilla == 'adjudicacion')} describes 767 (2.8178%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7979% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.2477%.
+
+Pattern: {(Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo') AND (Tipo_de_contratacion == 'adquisiciones')}
+Count: [42769, 660]
+Target property's support: [62.0722%, 2.4247%]
+Dataset's support: 45.1811%
+Confidence: 98.4803%
+Interpretation:
+The pattern {(Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo') AND (Tipo_de_contratacion == 'adquisiciones')} describes 42769 (62.0722%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 44.4945% of the whole dataset.
+The pattern {(Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo') AND (Tipo_de_contratacion == 'adquisiciones')} describes 660 (2.4247%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6866% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.4803%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'servicios relacionados con la op') AND (Plantilla == 'adjudicacion')}
+Count: [42642, 690]
+Target property's support: [61.8879%, 2.5349%]
+Dataset's support: 45.0802%
+Confidence: 98.4076%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'servicios relacionados con la op') AND (Plantilla == 'adjudicacion')} describes 42642 (61.8879%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 44.3624% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'servicios relacionados con la op') AND (Plantilla == 'adjudicacion')} describes 690 (2.5349%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7178% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.4076%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios')}
+Count: [41896, 1669]
+Target property's support: [60.8052%, 6.1315%]
+Dataset's support: 45.3226%
+Confidence: 96.1689%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios')} describes 41896 (60.8052%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 43.5863% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios')} describes 1669 (6.1315%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.7363% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.1689%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')}
+Count: [41896, 1674]
+Target property's support: [60.8052%, 6.1499%]
+Dataset's support: 45.3278%
+Confidence: 96.1579%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')} describes 41896 (60.8052%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 43.5863% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')} describes 1674 (6.1499%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.7415% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.1579%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43')}
+Count: [41445, 823]
+Target property's support: [60.1506%, 3.0235%]
+Dataset's support: 43.9733%
+Confidence: 98.0529%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43')} describes 41445 (60.1506%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 43.1171% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43')} describes 823 (3.0235%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.8562% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.0529%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [41432, 1483]
+Target property's support: [60.1318%, 5.4482%]
+Dataset's support: 44.6464%
+Confidence: 96.5443%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')} describes 41432 (60.1318%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 43.1036% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')} describes 1483 (5.4482%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.5428% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.5443%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Caracter_del_procedimiento == 'nacional')}
+Count: [41432, 1483]
+Target property's support: [60.1318%, 5.4482%]
+Dataset's support: 44.6464%
+Confidence: 96.5443%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Caracter_del_procedimiento == 'nacional')} describes 41432 (60.1318%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 43.1036% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Caracter_del_procedimiento == 'nacional')} describes 1483 (5.4482%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.5428% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.5443%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez')}
+Count: [41401, 1368]
+Target property's support: [60.0868%, 5.0257%]
+Dataset's support: 44.4945%
+Confidence: 96.8014%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez')} describes 41401 (60.0868%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 43.0713% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez')} describes 1368 (5.0257%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.4232% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.8014%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Caracter_del_procedimiento == 'nacional')}
+Count: [41316, 1266]
+Target property's support: [59.9634%, 4.6510%]
+Dataset's support: 44.3000%
+Confidence: 97.0269%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Caracter_del_procedimiento == 'nacional')} describes 41316 (59.9634%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.9829% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Tipo_de_contratacion != 'arrendamientos') AND (Caracter_del_procedimiento == 'nacional')} describes 1266 (4.6510%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.3171% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.0269%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [41060, 683]
+Target property's support: [59.5919%, 2.5092%]
+Dataset's support: 43.4271%
+Confidence: 98.3638%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 41060 (59.5919%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.7165% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 683 (2.5092%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7106% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.3638%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')}
+Count: [41034, 586]
+Target property's support: [59.5541%, 2.1528%]
+Dataset's support: 43.2991%
+Confidence: 98.5920%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')} describes 41034 (59.5541%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.6895% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')} describes 586 (2.1528%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6096% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.5920%.
+
+Pattern: {(Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')}
+Count: [41034, 586]
+Target property's support: [59.5541%, 2.1528%]
+Dataset's support: 43.2991%
+Confidence: 98.5920%
+Interpretation:
+The pattern {(Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')} describes 41034 (59.5541%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.6895% of the whole dataset.
+The pattern {(Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')} describes 586 (2.1528%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6096% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.5920%.
+
+Pattern: {(Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')}
+Count: [41034, 586]
+Target property's support: [59.5541%, 2.1528%]
+Dataset's support: 43.2991%
+Confidence: 98.5920%
+Interpretation:
+The pattern {(Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')} describes 41034 (59.5541%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.6895% of the whole dataset.
+The pattern {(Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones')} describes 586 (2.1528%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6096% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.5920%.
+
+Pattern: {(Articulo != '43') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'adjudicacion')}
+Count: [41029, 586]
+Target property's support: [59.5469%, 2.1528%]
+Dataset's support: 43.2939%
+Confidence: 98.5919%
+Interpretation:
+The pattern {(Articulo != '43') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'adjudicacion')} describes 41029 (59.5469%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.6843% of the whole dataset.
+The pattern {(Articulo != '43') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'adjudicacion')} describes 586 (2.1528%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6096% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.5919%.
+
+Pattern: {(Plantilla == 'adjudicacion') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'diego francisco gonzalez trejo')}
+Count: [41028, 561]
+Target property's support: [59.5454%, 2.0610%]
+Dataset's support: 43.2669%
+Confidence: 98.6511%
+Interpretation:
+The pattern {(Plantilla == 'adjudicacion') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'diego francisco gonzalez trejo')} describes 41028 (59.5454%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.6833% of the whole dataset.
+The pattern {(Plantilla == 'adjudicacion') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'diego francisco gonzalez trejo')} describes 561 (2.0610%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.5836% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.6511%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')}
+Count: [40955, 976]
+Target property's support: [59.4395%, 3.5856%]
+Dataset's support: 43.6227%
+Confidence: 97.6724%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')} describes 40955 (59.4395%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.6073% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')} describes 976 (3.5856%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.0154% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.6724%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion')}
+Count: [40928, 864]
+Target property's support: [59.4003%, 3.1741%]
+Dataset's support: 43.4781%
+Confidence: 97.9326%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion')} describes 40928 (59.4003%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 42.5792% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion')} describes 864 (3.1741%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.8989% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.9326%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos') AND (Tipo_de_contratacion != 'servicios relacionados con la op') AND (Caracter_del_procedimiento == 'nacional')}
+Count: [39804, 1099]
+Target property's support: [57.7690%, 4.0375%]
+Dataset's support: 42.5532%
+Confidence: 97.3132%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos') AND (Tipo_de_contratacion != 'servicios relacionados con la op') AND (Caracter_del_procedimiento == 'nacional')} describes 39804 (57.7690%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 41.4099% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos') AND (Tipo_de_contratacion != 'servicios relacionados con la op') AND (Caracter_del_procedimiento == 'nacional')} describes 1099 (4.0375%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.1433% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.3132%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [39227, 569]
+Target property's support: [56.9316%, 2.0904%]
+Dataset's support: 41.4016%
+Confidence: 98.5702%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 39227 (56.9316%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 40.8096% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 569 (2.0904%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.5920% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.5702%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'adjudicacion') AND (Operador != 'diego francisco gonzalez trejo')}
+Count: [38867, 499]
+Target property's support: [56.4091%, 1.8332%]
+Dataset's support: 40.9542%
+Confidence: 98.7324%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'adjudicacion') AND (Operador != 'diego francisco gonzalez trejo')} describes 38867 (56.4091%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 40.4351% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'adquisiciones') AND (Plantilla == 'adjudicacion') AND (Operador != 'diego francisco gonzalez trejo')} describes 499 (1.8332%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.5191% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.7324%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')}
+Count: [37997, 1431]
+Target property's support: [55.1464%, 5.2572%]
+Dataset's support: 41.0187%
+Confidence: 96.3706%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')} describes 37997 (55.1464%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 39.5300% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')} describes 1431 (5.2572%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.4887% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.3706%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Plantilla != 'contratos') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')}
+Count: [37920, 1309]
+Target property's support: [55.0347%, 4.8090%]
+Dataset's support: 40.8117%
+Confidence: 96.6632%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Plantilla != 'contratos') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')} describes 37920 (55.0347%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 39.4499% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Plantilla != 'contratos') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez')} describes 1309 (4.8090%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.3618% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.6632%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')}
+Count: [32656, 732]
+Target property's support: [47.3949%, 2.6892%]
+Dataset's support: 34.7350%
+Confidence: 97.8076%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')} describes 32656 (47.3949%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 33.9735% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')} describes 732 (2.6892%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7615% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.8076%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')}
+Count: [32656, 732]
+Target property's support: [47.3949%, 2.6892%]
+Dataset's support: 34.7350%
+Confidence: 97.8076%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')} describes 32656 (47.3949%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 33.9735% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo != '43')} describes 732 (2.6892%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7615% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.8076%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [32656, 731]
+Target property's support: [47.3949%, 2.6855%]
+Dataset's support: 34.7340%
+Confidence: 97.8105%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 32656 (47.3949%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 33.9735% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 731 (2.6855%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7605% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.8105%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [32656, 732]
+Target property's support: [47.3949%, 2.6892%]
+Dataset's support: 34.7350%
+Confidence: 97.8076%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 32656 (47.3949%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 33.9735% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 732 (2.6892%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7615% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.8076%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios')}
+Count: [31861, 706]
+Target property's support: [46.2410%, 2.5937%]
+Dataset's support: 33.8809%
+Confidence: 97.8322%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios')} describes 31861 (46.2410%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 33.1464% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios')} describes 706 (2.5937%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7345% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.8322%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [30917, 610]
+Target property's support: [44.8710%, 2.2410%]
+Dataset's support: 32.7989%
+Confidence: 98.0652%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 30917 (44.8710%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 32.1643% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '43') AND (Tipo_de_contratacion != 'arrendamientos')} describes 610 (2.2410%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6346% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.0652%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')}
+Count: [30911, 585]
+Target property's support: [44.8623%, 2.1492%]
+Dataset's support: 32.7667%
+Confidence: 98.1426%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')} describes 30911 (44.8623%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 32.1581% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '43') AND (Operador != 'diego francisco gonzalez trejo')} describes 585 (2.1492%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6086% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.1426%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'diego francisco gonzalez trejo')}
+Count: [30828, 525]
+Target property's support: [44.7418%, 1.9287%]
+Dataset's support: 32.6179%
+Confidence: 98.3255%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'diego francisco gonzalez trejo')} describes 30828 (44.7418%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 32.0717% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'diego francisco gonzalez trejo')} describes 525 (1.9287%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.5462% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.3255%.
+
+Pattern: {(Mes_pub > 4) AND (Tipo_de_contratacion != 'servicios')}
+Count: [30322, 977]
+Target property's support: [44.0074%, 3.5893%]
+Dataset's support: 32.5617%
+Confidence: 96.8785%
+Interpretation:
+The pattern {(Mes_pub > 4) AND (Tipo_de_contratacion != 'servicios')} describes 30322 (44.0074%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 31.5453% of the whole dataset.
+The pattern {(Mes_pub > 4) AND (Tipo_de_contratacion != 'servicios')} describes 977 (3.5893%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 1.0164% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 96.8785%.
+
+Pattern: {(Mes_pub > 4) AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [30115, 835]
+Target property's support: [43.7070%, 3.0676%]
+Dataset's support: 32.1987%
+Confidence: 97.3021%
+Interpretation:
+The pattern {(Mes_pub > 4) AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos')} describes 30115 (43.7070%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 31.3300% of the whole dataset.
+The pattern {(Mes_pub > 4) AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Tipo_de_contratacion != 'arrendamientos')} describes 835 (3.0676%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.8687% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.3021%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41')}
+Count: [29156, 347]
+Target property's support: [42.3152%, 1.2748%]
+Dataset's support: 30.6933%
+Confidence: 98.8238%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41')} describes 29156 (42.3152%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 30.3323% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41')} describes 347 (1.2748%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.3610% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.8238%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno')}
+Count: [29151, 336]
+Target property's support: [42.3079%, 1.2344%]
+Dataset's support: 30.6766%
+Confidence: 98.8605%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno')} describes 29151 (42.3079%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 30.3271% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno')} describes 336 (1.2344%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.3496% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.8605%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo == '41')}
+Count: [29011, 281]
+Target property's support: [42.1047%, 1.0323%]
+Dataset's support: 30.4738%
+Confidence: 99.0407%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo == '41')} describes 29011 (42.1047%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 30.1814% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Articulo == '41')} describes 281 (1.0323%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.2923% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 99.0407%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Articulo == '41')}
+Count: [29011, 281]
+Target property's support: [42.1047%, 1.0323%]
+Dataset's support: 30.4738%
+Confidence: 99.0407%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Articulo == '41')} describes 29011 (42.1047%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 30.1814% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Articulo == '41')} describes 281 (1.0323%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.2923% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 99.0407%.
+
+Pattern: {(Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Tipo_de_contratacion == 'adquisiciones')}
+Count: [29001, 274]
+Target property's support: [42.0902%, 1.0066%]
+Dataset's support: 30.4561%
+Confidence: 99.0640%
+Interpretation:
+The pattern {(Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Tipo_de_contratacion == 'adquisiciones')} describes 29001 (42.0902%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 30.1710% of the whole dataset.
+The pattern {(Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Tipo_de_contratacion == 'adquisiciones')} describes 274 (1.0066%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.2851% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 99.0640%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Plantilla == 'adjudicacion')}
+Count: [28803, 320]
+Target property's support: [41.8029%, 1.1756%]
+Dataset's support: 30.2980%
+Confidence: 98.9012%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Plantilla == 'adjudicacion')} describes 28803 (41.8029%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 29.9650% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41') AND (Plantilla == 'adjudicacion')} describes 320 (1.1756%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.3329% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.9012%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno')}
+Count: [28798, 309]
+Target property's support: [41.7956%, 1.1352%]
+Dataset's support: 30.2813%
+Confidence: 98.9384%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno')} describes 28798 (41.7956%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 29.9598% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno')} describes 309 (1.1352%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.3215% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.9384%.
+
+Pattern: {(Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones') AND (Articulo != '42')}
+Count: [28660, 248]
+Target property's support: [41.5953%, 0.9111%]
+Dataset's support: 30.0743%
+Confidence: 99.1421%
+Interpretation:
+The pattern {(Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones') AND (Articulo != '42')} describes 28660 (41.5953%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 29.8163% of the whole dataset.
+The pattern {(Operador != 'jose campomanes dominguez') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion == 'adquisiciones') AND (Articulo != '42')} describes 248 (0.9111%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.2580% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 99.1421%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41')}
+Count: [28647, 305]
+Target property's support: [41.5764%, 1.1205%]
+Dataset's support: 30.1201%
+Confidence: 98.9465%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41')} describes 28647 (41.5764%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 29.8028% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Articulo == '41')} describes 305 (1.1205%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.3173% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.9465%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo == '41')}
+Count: [28647, 305]
+Target property's support: [41.5764%, 1.1205%]
+Dataset's support: 30.1201%
+Confidence: 98.9465%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo == '41')} describes 28647 (41.5764%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 29.8028% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo == '41')} describes 305 (1.1205%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.3173% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.9465%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno') AND (Most_used_UC_word_general == '0')}
+Count: [28642, 294]
+Target property's support: [41.5692%, 1.0801%]
+Dataset's support: 30.1034%
+Confidence: 98.9840%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno') AND (Most_used_UC_word_general == '0')} describes 28642 (41.5692%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 29.7975% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Articulo == '41') AND (Operador != 'gerardo colina garduno') AND (Most_used_UC_word_general == '0')} describes 294 (1.0801%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.3059% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.9840%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Articulo == '41') AND (Most_used_UC_word_material == '0')}
+Count: [27166, 246]
+Target property's support: [39.4270%, 0.9037%]
+Dataset's support: 28.5179%
+Confidence: 99.1026%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Articulo == '41') AND (Most_used_UC_word_material == '0')} describes 27166 (39.4270%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 28.2620% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela') AND (Articulo == '41') AND (Most_used_UC_word_material == '0')} describes 246 (0.9037%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.2559% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 99.1026%.
+
+Pattern: {(Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'jose campomanes dominguez') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'lilia eugenia rangel gabela')}
+Count: [26750, 651]
+Target property's support: [38.8233%, 2.3916%]
+Dataset's support: 28.5065%
+Confidence: 97.6242%
+Interpretation:
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'jose campomanes dominguez') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'lilia eugenia rangel gabela')} describes 26750 (38.8233%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 27.8292% of the whole dataset.
+The pattern {(Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'jose campomanes dominguez') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'lilia eugenia rangel gabela')} describes 651 (2.3916%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6773% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.6242%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Forma_del_procedimiento == 'presencial')}
+Count: [26605, 655]
+Target property's support: [38.6128%, 2.4063%]
+Dataset's support: 28.3598%
+Confidence: 97.5972%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Forma_del_procedimiento == 'presencial')} describes 26605 (38.6128%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 27.6784% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos') AND (Operador != 'jose campomanes dominguez') AND (Forma_del_procedimiento == 'presencial')} describes 655 (2.4063%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.6814% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.5972%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Forma_del_procedimiento == 'presencial') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')}
+Count: [26458, 537]
+Target property's support: [38.3995%, 1.9728%]
+Dataset's support: 28.0841%
+Confidence: 98.0107%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Forma_del_procedimiento == 'presencial') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')} describes 26458 (38.3995%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 27.5254% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Forma_del_procedimiento == 'presencial') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'jose campomanes dominguez') AND (Operador != 'lilia eugenia rangel gabela')} describes 537 (1.9728%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.5587% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.0107%.
+
+Pattern: {(Mes_pub <= 4) AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')}
+Count: [25135, 760]
+Target property's support: [36.4793%, 2.7921%]
+Dataset's support: 26.9397%
+Confidence: 97.0651%
+Interpretation:
+The pattern {(Mes_pub <= 4) AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')} describes 25135 (36.4793%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 26.1491% of the whole dataset.
+The pattern {(Mes_pub <= 4) AND (Tipo_de_contratacion != 'servicios') AND (Tipo_de_contratacion != 'arrendamientos')} describes 760 (2.7921%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7907% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.0651%.
+
+Pattern: {(Mes_pub > 4) AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'armida montoya gallegos')}
+Count: [25066, 448]
+Target property's support: [36.3792%, 1.6458%]
+Dataset's support: 26.5434%
+Confidence: 98.2441%
+Interpretation:
+The pattern {(Mes_pub > 4) AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'armida montoya gallegos')} describes 25066 (36.3792%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 26.0773% of the whole dataset.
+The pattern {(Mes_pub > 4) AND (Tipo_de_contratacion == 'adquisiciones') AND (Operador != 'armida montoya gallegos')} describes 448 (1.6458%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.4661% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.2441%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'tonatiuh flores camarillo') AND (Tipo_de_contratacion != 'servicios')}
+Count: [24776, 686]
+Target property's support: [35.9583%, 2.5202%]
+Dataset's support: 26.4893%
+Confidence: 97.3058%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'tonatiuh flores camarillo') AND (Tipo_de_contratacion != 'servicios')} describes 24776 (35.9583%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 25.7756% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'tonatiuh flores camarillo') AND (Tipo_de_contratacion != 'servicios')} describes 686 (2.5202%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.7137% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 97.3058%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo == '41')}
+Count: [21566, 288]
+Target property's support: [31.2995%, 1.0580%]
+Dataset's support: 22.7357%
+Confidence: 98.6822%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo == '41')} describes 21566 (31.2995%) of the objects in the class {Most_used_description_word_servici == '0'}. These objects are 22.4361% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_general == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo == '41')} describes 288 (1.0580%) of the objects outside the class {Most_used_description_word_servici == '0'}. These objects are 0.2996% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '0'} given that the object fulfills the pattern is 98.6822%.
+
+********************* Class: {Most_used_description_word_servici == '1'}' *********************
+Pattern: {(Tipo_de_contratacion == 'servicios')}
+Count: [25349, 13139]
+Target property's support: [93.1264%, 19.0691%]
+Dataset's support: 40.0408%
+Confidence: 65.8621%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios')} describes 25349 (93.1264%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 26.3717% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios')} describes 13139 (19.0691%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 13.6691% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.8621%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [25266, 12248]
+Target property's support: [92.8215%, 17.7760%]
+Dataset's support: 39.0275%
+Confidence: 67.3509%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 25266 (92.8215%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 26.2853% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 12248 (17.7760%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 12.7421% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.3509%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')}
+Count: [25029, 11161]
+Target property's support: [91.9508%, 16.1984%]
+Dataset's support: 37.6501%
+Confidence: 69.1600%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')} describes 25029 (91.9508%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 26.0388% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')} describes 11161 (16.1984%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 11.6113% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 69.1600%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia')}
+Count: [24981, 10780]
+Target property's support: [91.7744%, 15.6454%]
+Dataset's support: 37.2038%
+Confidence: 69.8554%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia')} describes 24981 (91.7744%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 25.9888% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia')} describes 10780 (15.6454%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 11.2149% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 69.8554%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Operador != 'juan bernardo bolanos granados')}
+Count: [24872, 10421]
+Target property's support: [91.3740%, 15.1244%]
+Dataset's support: 36.7169%
+Confidence: 70.4729%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Operador != 'juan bernardo bolanos granados')} describes 24872 (91.3740%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 25.8754% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Operador != 'juan bernardo bolanos granados')} describes 10421 (15.1244%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 10.8414% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 70.4729%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios')}
+Count: [24452, 12588]
+Target property's support: [89.8310%, 18.2694%]
+Dataset's support: 38.5344%
+Confidence: 66.0151%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios')} describes 24452 (89.8310%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 25.4385% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios')} describes 12588 (18.2694%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 13.0959% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.0151%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')}
+Count: [24133, 10613]
+Target property's support: [88.6591%, 15.4030%]
+Dataset's support: 36.1478%
+Confidence: 69.4555%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')} describes 24133 (88.6591%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 25.1066% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')} describes 10613 (15.4030%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 11.0412% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 69.4555%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [24101, 12231]
+Target property's support: [88.5415%, 17.7513%]
+Dataset's support: 37.7978%
+Confidence: 66.3355%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 24101 (88.5415%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 25.0733% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 12231 (17.7513%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 12.7245% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.3355%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios')}
+Count: [23288, 12571]
+Target property's support: [85.5547%, 18.2448%]
+Dataset's support: 37.3057%
+Confidence: 64.9432%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios')} describes 23288 (85.5547%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 24.2275% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios')} describes 12571 (18.2448%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 13.0782% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 64.9432%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')}
+Count: [22969, 10596]
+Target property's support: [84.3828%, 15.3784%]
+Dataset's support: 34.9192%
+Confidence: 68.4314%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')} describes 22969 (84.3828%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 23.8957% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia')} describes 10596 (15.3784%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 11.0235% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 68.4314%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0')}
+Count: [22759, 11257]
+Target property's support: [83.6113%, 16.3377%]
+Dataset's support: 35.3884%
+Confidence: 66.9067%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0')} describes 22759 (83.6113%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 23.6772% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0')} describes 11257 (16.3377%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 11.7112% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.9067%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_gyr == '0')}
+Count: [22439, 9279]
+Target property's support: [82.4357%, 13.4670%]
+Dataset's support: 32.9976%
+Confidence: 70.7453%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_gyr == '0')} describes 22439 (82.4357%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 23.3443% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_gyr == '0')} describes 9279 (13.4670%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.6534% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 70.7453%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_gyr == '0')}
+Count: [22391, 8898]
+Target property's support: [82.2594%, 12.9140%]
+Dataset's support: 32.5513%
+Confidence: 71.5619%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_gyr == '0')} describes 22391 (82.2594%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 23.2944% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_gyr == '0')} describes 8898 (12.9140%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.2570% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 71.5619%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6)}
+Count: [21556, 9764]
+Target property's support: [79.1918%, 14.1709%]
+Dataset's support: 32.5836%
+Confidence: 68.8250%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6)} describes 21556 (79.1918%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 22.4257% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6)} describes 9764 (14.1709%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 10.1579% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 68.8250%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [21473, 8898]
+Target property's support: [78.8868%, 12.9140%]
+Dataset's support: 31.5963%
+Confidence: 70.7023%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz')} describes 21473 (78.8868%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 22.3393% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz')} describes 8898 (12.9140%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.2570% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 70.7023%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')}
+Count: [20902, 9816]
+Target property's support: [76.7891%, 14.2463%]
+Dataset's support: 31.9573%
+Confidence: 68.0448%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')} describes 20902 (76.7891%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 21.7453% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')} describes 9816 (14.2463%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 10.2120% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 68.0448%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6)}
+Count: [20805, 9331]
+Target property's support: [76.4328%, 13.5424%]
+Dataset's support: 31.3518%
+Confidence: 69.0370%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6)} describes 20805 (76.4328%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 21.6444% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6)} describes 9331 (13.5424%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.7075% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 69.0370%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)}
+Count: [20722, 8467]
+Target property's support: [76.1278%, 12.2885%]
+Dataset's support: 30.3666%
+Confidence: 70.9925%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)} describes 20722 (76.1278%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 21.5580% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)} describes 8467 (12.2885%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 8.8086% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 70.9925%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')}
+Count: [20154, 8468]
+Target property's support: [74.0411%, 12.2899%]
+Dataset's support: 29.7767%
+Confidence: 70.4144%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')} describes 20154 (74.0411%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 20.9671% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')} describes 8468 (12.2899%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 8.8096% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 70.4144%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_gyr == '0')}
+Count: [19439, 8255]
+Target property's support: [71.4144%, 11.9808%]
+Dataset's support: 28.8113%
+Confidence: 70.1921%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_gyr == '0')} describes 19439 (71.4144%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 20.2233% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_gyr == '0')} describes 8255 (11.9808%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 8.5880% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 70.1921%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [19356, 7389]
+Target property's support: [71.1095%, 10.7239%]
+Dataset's support: 27.8240%
+Confidence: 72.3724%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz')} describes 19356 (71.1095%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 20.1369% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz')} describes 7389 (10.7239%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.6871% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 72.3724%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)}
+Count: [19356, 7389]
+Target property's support: [71.1095%, 10.7239%]
+Dataset's support: 27.8240%
+Confidence: 72.3724%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)} describes 19356 (71.1095%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 20.1369% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)} describes 7389 (10.7239%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.6871% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 72.3724%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Mes_pub <= 6)}
+Count: [19356, 7389]
+Target property's support: [71.1095%, 10.7239%]
+Dataset's support: 27.8240%
+Confidence: 72.3724%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Mes_pub <= 6)} describes 19356 (71.1095%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 20.1369% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Mes_pub <= 6)} describes 7389 (10.7239%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.6871% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 72.3724%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)}
+Count: [18295, 7372]
+Target property's support: [67.2116%, 10.6993%]
+Dataset's support: 26.7025%
+Confidence: 71.2783%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)} describes 18295 (67.2116%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 19.0331% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6)} describes 7372 (10.6993%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.6694% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 71.2783%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Mes_pub > 1) AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [17919, 6898]
+Target property's support: [65.8303%, 10.0113%]
+Dataset's support: 25.8182%
+Confidence: 72.2045%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Mes_pub > 1) AND (Operador != 'guadalupe kaori munoz ortiz')} describes 17919 (65.8303%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 18.6419% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Mes_pub > 1) AND (Operador != 'guadalupe kaori munoz ortiz')} describes 6898 (10.0113%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.1763% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 72.2045%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0')}
+Count: [17514, 10039]
+Target property's support: [64.3424%, 14.5700%]
+Dataset's support: 28.6646%
+Confidence: 63.5648%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0')} describes 17514 (64.3424%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 18.2206% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0')} describes 10039 (14.5700%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 10.4440% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 63.5648%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios')}
+Count: [17514, 10039]
+Target property's support: [64.3424%, 14.5700%]
+Dataset's support: 28.6646%
+Confidence: 63.5648%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios')} describes 17514 (64.3424%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 18.2206% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios')} describes 10039 (14.5700%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 10.4440% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 63.5648%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0')}
+Count: [17431, 9148]
+Target property's support: [64.0375%, 13.2768%]
+Dataset's support: 27.6513%
+Confidence: 65.5819%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0')} describes 17431 (64.0375%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 18.1342% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0')} describes 9148 (13.2768%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.5171% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.5819%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [17431, 9148]
+Target property's support: [64.0375%, 13.2768%]
+Dataset's support: 27.6513%
+Confidence: 65.5819%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 17431 (64.0375%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 18.1342% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 9148 (13.2768%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.5171% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.5819%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0')}
+Count: [17431, 9148]
+Target property's support: [64.0375%, 13.2768%]
+Dataset's support: 27.6513%
+Confidence: 65.5819%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0')} describes 17431 (64.0375%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 18.1342% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0')} describes 9148 (13.2768%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.5171% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.5819%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [17431, 9148]
+Target property's support: [64.0375%, 13.2768%]
+Dataset's support: 27.6513%
+Confidence: 65.5819%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 17431 (64.0375%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 18.1342% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 9148 (13.2768%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.5171% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.5819%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_general == '0')}
+Count: [17383, 8767]
+Target property's support: [63.8611%, 12.7239%]
+Dataset's support: 27.2050%
+Confidence: 66.4742%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_general == '0')} describes 17383 (63.8611%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 18.0843% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_general == '0')} describes 8767 (12.7239%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.1207% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.4742%.
+
+Pattern: {(Mes_pub <= 4) AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [17117, 6712]
+Target property's support: [62.8839%, 9.7414%]
+Dataset's support: 24.7904%
+Confidence: 71.8326%
+Interpretation:
+The pattern {(Mes_pub <= 4) AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 17117 (62.8839%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 17.8076% of the whole dataset.
+The pattern {(Mes_pub <= 4) AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 6712 (9.7414%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.9828% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 71.8326%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios')}
+Count: [16719, 9527]
+Target property's support: [61.4217%, 13.8269%]
+Dataset's support: 27.3049%
+Confidence: 63.7011%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios')} describes 16719 (61.4217%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 17.3935% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios')} describes 9527 (13.8269%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 9.9114% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 63.7011%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')}
+Count: [16588, 8257]
+Target property's support: [60.9405%, 11.9837%]
+Dataset's support: 25.8474%
+Confidence: 66.7659%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')} describes 16588 (60.9405%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 17.2572% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')} describes 8257 (11.9837%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 8.5901% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.7659%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Plantilla != 'contratos') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [16377, 8582]
+Target property's support: [60.1653%, 12.4554%]
+Dataset's support: 25.9660%
+Confidence: 65.6156%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Plantilla != 'contratos') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 16377 (60.1653%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 17.0377% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Plantilla != 'contratos') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 8582 (12.4554%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 8.9282% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.6156%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub > 8) AND (Dia_pub <= 22)}
+Count: [15991, 6598]
+Target property's support: [58.7472%, 9.5759%]
+Dataset's support: 23.5003%
+Confidence: 70.7911%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub > 8) AND (Dia_pub <= 22)} describes 15991 (58.7472%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 16.6361% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub > 8) AND (Dia_pub <= 22)} describes 6598 (9.5759%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.8642% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 70.7911%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0') AND (Articulo != '43')}
+Count: [14907, 7999]
+Target property's support: [54.7649%, 11.6092%]
+Dataset's support: 23.8301%
+Confidence: 65.0790%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0') AND (Articulo != '43')} describes 14907 (54.7649%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 15.5084% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0') AND (Articulo != '43')} describes 7999 (11.6092%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 8.3217% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.0790%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0')}
+Count: [14842, 7282]
+Target property's support: [54.5261%, 10.5686%]
+Dataset's support: 23.0166%
+Confidence: 67.0855%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0')} describes 14842 (54.5261%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 15.4408% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0')} describes 7282 (10.5686%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.5758% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.0855%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_gyr == '0')}
+Count: [14842, 7282]
+Target property's support: [54.5261%, 10.5686%]
+Dataset's support: 23.0166%
+Confidence: 67.0855%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_gyr == '0')} describes 14842 (54.5261%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 15.4408% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'claudia lizeth paz garcia') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_gyr == '0')} describes 7282 (10.5686%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.5758% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.0855%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'nancy cruz garcia')}
+Count: [14794, 6901]
+Target property's support: [54.3497%, 10.0157%]
+Dataset's support: 22.5703%
+Confidence: 68.1908%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'nancy cruz garcia')} describes 14794 (54.3497%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 15.3909% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'nancy cruz garcia')} describes 6901 (10.0157%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.1794% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 68.1908%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0')}
+Count: [14566, 8091]
+Target property's support: [53.5121%, 11.7428%]
+Dataset's support: 23.5711%
+Confidence: 64.2892%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0')} describes 14566 (53.5121%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 15.1537% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0')} describes 8091 (11.7428%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 8.4174% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 64.2892%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0')}
+Count: [14483, 7225]
+Target property's support: [53.2072%, 10.4859%]
+Dataset's support: 22.5838%
+Confidence: 66.7173%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0')} describes 14483 (53.2072%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 15.0673% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0')} describes 7225 (10.4859%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.5165% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.7173%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [14483, 7225]
+Target property's support: [53.2072%, 10.4859%]
+Dataset's support: 22.5838%
+Confidence: 66.7173%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 14483 (53.2072%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 15.0673% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 7225 (10.4859%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.5165% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.7173%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0')}
+Count: [14483, 7225]
+Target property's support: [53.2072%, 10.4859%]
+Dataset's support: 22.5838%
+Confidence: 66.7173%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0')} describes 14483 (53.2072%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 15.0673% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6) AND (Most_used_UC_word_general == '0')} describes 7225 (10.4859%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.5165% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.7173%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'juan bernardo bolanos granados') AND (Most_used_UC_word_general == '0')}
+Count: [14374, 6867]
+Target property's support: [52.8068%, 9.9663%]
+Dataset's support: 22.0980%
+Confidence: 67.6710%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'juan bernardo bolanos granados') AND (Most_used_UC_word_general == '0')} describes 14374 (52.8068%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.9539% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'juan bernardo bolanos granados') AND (Most_used_UC_word_general == '0')} describes 6867 (9.9663%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.1440% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.6710%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0') AND (Operador != 'juan bernardo bolanos granados')}
+Count: [14374, 6867]
+Target property's support: [52.8068%, 9.9663%]
+Dataset's support: 22.0980%
+Confidence: 67.6710%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0') AND (Operador != 'juan bernardo bolanos granados')} describes 14374 (52.8068%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.9539% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_general == '0') AND (Operador != 'juan bernardo bolanos granados')} describes 6867 (9.9663%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.1440% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.6710%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6) AND (Operador != 'juan bernardo bolanos granados') AND (Most_used_UC_word_general == '0')}
+Count: [14374, 6867]
+Target property's support: [52.8068%, 9.9663%]
+Dataset's support: 22.0980%
+Confidence: 67.6710%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6) AND (Operador != 'juan bernardo bolanos granados') AND (Most_used_UC_word_general == '0')} describes 14374 (52.8068%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.9539% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 6) AND (Operador != 'juan bernardo bolanos granados') AND (Most_used_UC_word_general == '0')} describes 6867 (9.9663%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.1440% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.6710%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0')}
+Count: [13834, 6524]
+Target property's support: [50.8229%, 9.4685%]
+Dataset's support: 21.1793%
+Confidence: 67.9536%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0')} describes 13834 (50.8229%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.3921% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0')} describes 6524 (9.4685%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.7872% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.9536%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0')}
+Count: [13834, 6524]
+Target property's support: [50.8229%, 9.4685%]
+Dataset's support: 21.1793%
+Confidence: 67.9536%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0')} describes 13834 (50.8229%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.3921% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0')} describes 6524 (9.4685%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.7872% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.9536%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0')}
+Count: [13834, 6524]
+Target property's support: [50.8229%, 9.4685%]
+Dataset's support: 21.1793%
+Confidence: 67.9536%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0')} describes 13834 (50.8229%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.3921% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0')} describes 6524 (9.4685%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.7872% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.9536%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0')}
+Count: [13834, 6524]
+Target property's support: [50.8229%, 9.4685%]
+Dataset's support: 21.1793%
+Confidence: 67.9536%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0')} describes 13834 (50.8229%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.3921% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0')} describes 6524 (9.4685%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.7872% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.9536%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez')}
+Count: [13809, 6343]
+Target property's support: [50.7311%, 9.2058%]
+Dataset's support: 20.9650%
+Confidence: 68.5242%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez')} describes 13809 (50.7311%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.3661% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez')} describes 6343 (9.2058%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.5989% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 68.5242%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez') AND (Operador != 'mario alberto perez pena zamora')}
+Count: [13794, 6197]
+Target property's support: [50.6760%, 8.9939%]
+Dataset's support: 20.7975%
+Confidence: 69.0011%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez') AND (Operador != 'mario alberto perez pena zamora')} describes 13794 (50.6760%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.3505% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez') AND (Operador != 'mario alberto perez pena zamora')} describes 6197 (8.9939%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.4470% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 69.0011%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'adjudicacion')}
+Count: [13580, 8336]
+Target property's support: [49.8898%, 12.0983%]
+Dataset's support: 22.8002%
+Confidence: 61.9639%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'adjudicacion')} describes 13580 (49.8898%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.1279% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_general == '0') AND (Plantilla == 'adjudicacion')} describes 8336 (12.0983%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 8.6723% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 61.9639%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [13497, 7445]
+Target property's support: [49.5849%, 10.8052%]
+Dataset's support: 21.7869%
+Confidence: 64.4494%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 13497 (49.5849%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 14.0415% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 7445 (10.8052%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.7454% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 64.4494%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial')}
+Count: [12662, 7599]
+Target property's support: [46.5173%, 11.0287%]
+Dataset's support: 21.0784%
+Confidence: 62.4944%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial')} describes 12662 (46.5173%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 13.1728% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial')} describes 7599 (11.0287%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 7.9056% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 62.4944%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [12580, 6708]
+Target property's support: [46.2160%, 9.7356%]
+Dataset's support: 20.0662%
+Confidence: 65.2219%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 12580 (46.2160%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 13.0875% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 6708 (9.7356%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.9786% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.2219%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia') AND (Operador != 'alejandro ordono perez')}
+Count: [12507, 6146]
+Target property's support: [45.9478%, 8.9199%]
+Dataset's support: 19.4055%
+Confidence: 67.0509%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia') AND (Operador != 'alejandro ordono perez')} describes 12507 (45.9478%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 13.0116% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia') AND (Operador != 'alejandro ordono perez')} describes 6146 (8.9199%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.3940% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.0509%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'claudia lizeth paz garcia')}
+Count: [11958, 4181]
+Target property's support: [43.9309%, 6.0680%]
+Dataset's support: 16.7901%
+Confidence: 74.0938%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'claudia lizeth paz garcia')} describes 11958 (43.9309%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 12.4404% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'claudia lizeth paz garcia')} describes 4181 (6.0680%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 4.3497% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 74.0938%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'juan bernardo bolanos granados')}
+Count: [11851, 3822]
+Target property's support: [43.5378%, 5.5470%]
+Dataset's support: 16.3053%
+Confidence: 75.6141%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'juan bernardo bolanos granados')} describes 11851 (43.5378%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 12.3291% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Operador != 'claudia lizeth paz garcia') AND (Operador != 'juan bernardo bolanos granados')} describes 3822 (5.5470%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 3.9762% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 75.6141%.
+
+Pattern: {(Mes_pub <= 4) AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0')}
+Count: [11781, 4388]
+Target property's support: [43.2807%, 6.3685%]
+Dataset's support: 16.8213%
+Confidence: 72.8616%
+Interpretation:
+The pattern {(Mes_pub <= 4) AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0')} describes 11781 (43.2807%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 12.2563% of the whole dataset.
+The pattern {(Mes_pub <= 4) AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0')} describes 4388 (6.3685%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 4.5650% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 72.8616%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 4)}
+Count: [11547, 5436]
+Target property's support: [42.4210%, 7.8895%]
+Dataset's support: 17.6682%
+Confidence: 67.9915%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 4)} describes 11547 (42.4210%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 12.0129% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Mes_pub <= 4)} describes 5436 (7.8895%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 5.6553% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.9915%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla == 'adjudicacion') AND (Mes_pub > 1) AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [11472, 5981]
+Target property's support: [42.1455%, 8.6804%]
+Dataset's support: 18.1571%
+Confidence: 65.7308%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla == 'adjudicacion') AND (Mes_pub > 1) AND (Operador != 'guadalupe kaori munoz ortiz')} describes 11472 (42.1455%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.9348% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Plantilla == 'adjudicacion') AND (Mes_pub > 1) AND (Operador != 'guadalupe kaori munoz ortiz')} describes 5981 (8.6804%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 6.2223% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 65.7308%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 28)}
+Count: [11410, 4551]
+Target property's support: [41.9177%, 6.6050%]
+Dataset's support: 16.6049%
+Confidence: 71.4867%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 28)} describes 11410 (41.9177%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.8703% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 28)} describes 4551 (6.6050%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 4.7346% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 71.4867%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Mes_pub <= 4) AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion == 'servicios')}
+Count: [11267, 4101]
+Target property's support: [41.3924%, 5.9519%]
+Dataset's support: 15.9880%
+Confidence: 73.3147%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Mes_pub <= 4) AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion == 'servicios')} describes 11267 (41.3924%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.7216% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Mes_pub <= 4) AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion == 'servicios')} describes 4101 (5.9519%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 4.2665% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 73.3147%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_UC_word_gyr == '0')}
+Count: [11245, 4658]
+Target property's support: [41.3115%, 6.7603%]
+Dataset's support: 16.5446%
+Confidence: 70.7099%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_UC_word_gyr == '0')} describes 11245 (41.3115%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.6987% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_UC_word_gyr == '0')} describes 4658 (6.7603%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 4.8459% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 70.7099%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez') AND (Most_used_UC_word_gyr == '0')}
+Count: [11220, 4477]
+Target property's support: [41.2197%, 6.4976%]
+Dataset's support: 16.3303%
+Confidence: 71.4786%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez') AND (Most_used_UC_word_gyr == '0')} describes 11220 (41.2197%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.6727% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_material == '0') AND (Operador != 'alejandro ordono perez') AND (Most_used_UC_word_gyr == '0')} describes 4477 (6.4976%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 4.6576% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 71.4786%.
+
+Pattern: {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial')}
+Count: [11027, 5248]
+Target property's support: [40.5107%, 7.6166%]
+Dataset's support: 16.9316%
+Confidence: 67.7542%
+Interpretation:
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial')} describes 11027 (40.5107%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.4719% of the whole dataset.
+The pattern {(Operador != 'alan misael sanchez rojas') AND (Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial')} describes 5248 (7.6166%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 5.4597% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 67.7542%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 28) AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')}
+Count: [10943, 3440]
+Target property's support: [40.2021%, 4.9926%]
+Dataset's support: 14.9633%
+Confidence: 76.0829%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 28) AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')} describes 10943 (40.2021%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.3845% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 28) AND (Articulo != '43') AND (Operador != 'claudia lizeth paz garcia')} describes 3440 (4.9926%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 3.5788% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 76.0829%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento == 'presencial')}
+Count: [10676, 3680]
+Target property's support: [39.2212%, 5.3409%]
+Dataset's support: 14.9352%
+Confidence: 74.3661%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento == 'presencial')} describes 10676 (39.2212%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.1067% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento == 'presencial')} describes 3680 (5.3409%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 3.8285% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 74.3661%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [10628, 5261]
+Target property's support: [39.0448%, 7.6355%]
+Dataset's support: 16.5300%
+Confidence: 66.8890%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 10628 (39.0448%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 11.0568% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 5261 (7.6355%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 5.4733% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.8890%.
+
+Pattern: {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 4) AND (Dia_pub <= 28)}
+Count: [10526, 5228]
+Target property's support: [38.6701%, 7.5876%]
+Dataset's support: 16.3896%
+Confidence: 66.8148%
+Interpretation:
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 4) AND (Dia_pub <= 28)} describes 10526 (38.6701%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 10.9507% of the whole dataset.
+The pattern {(Most_used_UC_word_general == '0') AND (Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 4) AND (Dia_pub <= 28)} describes 5228 (7.5876%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 5.4389% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 66.8148%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'alejandro ordono perez')}
+Count: [10370, 4825]
+Target property's support: [38.0970%, 7.0027%]
+Dataset's support: 15.8080%
+Confidence: 68.2461%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'alejandro ordono perez')} describes 10370 (38.0970%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 10.7884% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento != 'presencial') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'alejandro ordono perez')} describes 4825 (7.0027%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 5.0197% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 68.2461%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento == 'presencial') AND (Mes_pub <= 6)}
+Count: [10359, 3486]
+Target property's support: [38.0566%, 5.0594%]
+Dataset's support: 14.4036%
+Confidence: 74.8212%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento == 'presencial') AND (Mes_pub <= 6)} describes 10359 (38.0566%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 10.7769% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Most_used_UC_word_gyr == '0') AND (Forma_del_procedimiento == 'presencial') AND (Mes_pub <= 6)} describes 3486 (5.0594%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 3.6266% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 74.8212%.
+
+Pattern: {(Most_used_UC_word_material == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'claudia lizeth paz garcia') AND (Mes_pub <= 4) AND (Most_used_UC_word_gyr == '0')}
+Count: [10084, 3327]
+Target property's support: [37.0463%, 4.8286%]
+Dataset's support: 13.9521%
+Confidence: 75.1920%
+Interpretation:
+The pattern {(Most_used_UC_word_material == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'claudia lizeth paz garcia') AND (Mes_pub <= 4) AND (Most_used_UC_word_gyr == '0')} describes 10084 (37.0463%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 10.4908% of the whole dataset.
+The pattern {(Most_used_UC_word_material == '0') AND (Tipo_de_contratacion == 'servicios') AND (Operador != 'claudia lizeth paz garcia') AND (Mes_pub <= 4) AND (Most_used_UC_word_gyr == '0')} describes 3327 (4.8286%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 3.4612% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 75.1920%.
+
+Pattern: {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 27) AND (Articulo != '43')}
+Count: [9414, 2823]
+Target property's support: [34.5849%, 4.0971%]
+Dataset's support: 12.7307%
+Confidence: 76.9306%
+Interpretation:
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 27) AND (Articulo != '43')} describes 9414 (34.5849%) of the objects in the class {Most_used_description_word_servici == '1'}. These objects are 9.7938% of the whole dataset.
+The pattern {(Tipo_de_contratacion == 'servicios') AND (Mes_pub <= 6) AND (Forma_del_procedimiento == 'presencial') AND (Dia_pub <= 27) AND (Articulo != '43')} describes 2823 (4.0971%) of the objects outside the class {Most_used_description_word_servici == '1'}. These objects are 2.9369% of the whole dataset.
+The probability that an object fulfills the property {Most_used_description_word_servici == '1'} given that the object fulfills the pattern is 76.9306%.
+
+That's all folks!
