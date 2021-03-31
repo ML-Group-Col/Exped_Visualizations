@@ -12,7 +12,7 @@ In this project, we make use of the PBC4cip algorithm to obtain contrast pattern
 The PBC4cip [2] classifier is a contrast pattern-based classifier. In the data mining phase, the PBC4cip algorithm computes the contrast patterns for each of the classes analyzed and its weights. Following, in the classification phase, the algorithm delivers the sum of supports in each class for all the patterns found. The sum is then multiplied by the weight of each class respectively. The algorithm obtains the contrast patterns in the dataset by extracting characteristics from the decision nodes that go from the root node to the leaves inside a decision tree,  and this is done for multiple decision trees. The constraints considered for pattern extraction are the ones outlined in Table 2. 
 
 
-![alt text](http://url/to/table2.png)
+![alt text](https://github.com/ML-Group-Col/Exped_Visualizations/blob/master/table2.png)
 
 **Conclusions**
 
