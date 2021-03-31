@@ -21,5 +21,5 @@ Before the extraction of the patterns and the analysis of the data, and as part 
 Next, the PBC4cip algorithm was used to extract the patterns from the transformed and selected attributes. Following, within the visualization design process we created multiple variations to observe patterns with one, two, and three univariate items.  We found the bar graph subplot matrix to be a good tool to represent this, as one can observe from afar how the support for each class varies with different attribute value combinations and just filter certain combinations to see how the pattern has found a situation with clear grater support for the target variable. We also observed that the ‘seaborn’ and ‘plotly express’  libraries were of great use for this graph implementation.
 
 **References**
-[1]  Han, J., Pei, J., & Kamber, M. (2011). Data mining: concepts and techniques. Elsevier.
-[2] L. Cañete-Sifuentes, R. Monroy, M. A. Medina-Pérez, O. Loyola-González and F. Vera Voronisky, "Classification Based on Multivariate Contrast Patterns," in IEEE Access, vol. 7, pp. 55744-55762, 2019. doi: 10.1109/ACCESS.2019.2913649
+* [1]  Han, J., Pei, J., & Kamber, M. (2011). Data mining: concepts and techniques. Elsevier.
+* [2] L. Cañete-Sifuentes, R. Monroy, M. A. Medina-Pérez, O. Loyola-González and F. Vera Voronisky, "Classification Based on Multivariate Contrast Patterns," in IEEE Access, vol. 7, pp. 55744-55762, 2019. doi: 10.1109/ACCESS.2019.2913649
