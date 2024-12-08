@@ -1,1 +1,14 @@
-fields,support_c0,support_c1,num_c0,num_c1,s_diff,n_diff,ratio
+patterns,support_c0,support_c1,num_c0,num_c1,s0-s1,c0-c1,c0/(c0 +c1)
+Correo electronico != 'diconsa' AND Most_used_UC_word_gyr = '1' AND Plantilla != 'proyecto' AND Operador != 'jose alfredo flores rodriguez',0.05,0.38,2919.6,14337.4,0.33,11417.8,0.83081648
+Operador != 'irma olga arredondo murillo' AND Correo electronico = 'imss' AND Plantilla != 'proyecto',0.05,0.37,2919.6,13960.1,0.32,11040.5,0.827034841
+Plantilla != 'proyecto' AND Correo electronico = 'imss' AND Operador != 'jose alfredo flores rodriguez',0.05,0.37,2919.6,13960.1,0.32,11040.5,0.827034841
+Most_used_UC_word_gyr = '1' AND Correo electronico = 'imss' AND Plantilla != 'proyecto',0.05,0.37,2919.6,13960.1,0.32,11040.5,0.827034841
+Correo electronico != 'diconsa' AND Most_used_UC_word_gyr = '1' AND Plantilla != 'proyecto' AND Tipo de contratacion != 'obra publica',0.05,0.37,2919.6,13960.1,0.32,11040.5,0.827034841
+Most_used_UC_word_gyr = '1' AND Plantilla != 'proyecto' AND Operador != 'jose alfredo flores rodriguez' AND Tipo de contratacion != 'obra publica',0.05,0.37,2919.6,13960.1,0.32,11040.5,0.827034841
+Tipo de contratacion != 'obra publica' AND Operador != 'irma olga arredondo murillo' AND Most_used_UC_word_gyr = '1' AND Plantilla != 'proyecto',0.05,0.37,2919.6,13960.1,0.32,11040.5,0.827034841
+Most_used_UC_word_gyr = '1' AND Operador != 'jose alfredo flores rodriguez' AND Plantilla != 'proyecto' AND Operador != 'alonso hernandez bravo',0.05,0.37,2919.6,13960.1,0.32,11040.5,0.827034841
+Tipo de contratacion != 'obra publica' AND Correo electronico = 'imss' AND Operador != 'jose alfredo flores rodriguez',0.06,0.38,3503.52,14337.4,0.32,10833.88,0.803624477
+Operador != 'irma olga arredondo murillo' AND Correo electronico != 'diconsa' AND Most_used_UC_word_gyr = '1' AND Operador != 'jose alfredo flores rodriguez',0.07,0.39,4087.44,14714.7,0.32,10627.26,0.782607724
+Most_used_UC_word_gyr = '1' AND Operador != 'jose alfredo flores rodriguez' AND Articulo != '43' AND Operador != 'yanet esteidy tapia sanchez',0.04,0.35,2335.68,13205.5,0.31,10869.82,0.849710254
+Most_used_UC_word_general = '0' AND Correo electronico = 'imss' AND Operador != 'jose alfredo flores rodriguez',0.07,0.38,4087.44,14337.4,0.31,10249.96,0.778156011
+Articulo != '43' AND Correo electronico = 'imss' AND Operador != 'jose alfredo flores rodriguez',0.04,0.34,2335.68,12828.2,0.3,10492.52,0.84597082

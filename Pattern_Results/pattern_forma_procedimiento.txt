@@ -1,0 +1,1183 @@
+********************* Class: {Forma_del_procedimiento == 'presencial'}' *********************
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0')}
+Count: [43702, 28539]
+Target property's support: [92.7403%, 60.7678%]
+Dataset's support: 75.1555%
+Confidence: 60.4947%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0')} describes 43702 (92.7403%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 45.4651% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0')} describes 28539 (60.7678%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 29.6904% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 60.4947%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')}
+Count: [41983, 27430]
+Target property's support: [89.0924%, 58.4064%]
+Dataset's support: 72.2134%
+Confidence: 60.4829%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')} describes 41983 (89.0924%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 43.6768% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')} describes 27430 (58.4064%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 28.5367% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 60.4829%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion')}
+Count: [39041, 22273]
+Target property's support: [82.8491%, 47.4257%]
+Dataset's support: 63.7877%
+Confidence: 63.6739%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion')} describes 39041 (82.8491%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 40.6161% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion')} describes 22273 (47.4257%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 23.1716% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 63.6739%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Plantilla == 'adjudicacion')}
+Count: [39041, 21297]
+Target property's support: [82.8491%, 45.3475%]
+Dataset's support: 62.7723%
+Confidence: 64.7038%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Plantilla == 'adjudicacion')} describes 39041 (82.8491%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 40.6161% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Plantilla == 'adjudicacion')} describes 21297 (45.3475%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.1562% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 64.7038%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [39041, 21297]
+Target property's support: [82.8491%, 45.3475%]
+Dataset's support: 62.7723%
+Confidence: 64.7038%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 39041 (82.8491%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 40.6161% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 21297 (45.3475%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.1562% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 64.7038%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0')}
+Count: [38048, 21086]
+Target property's support: [80.7419%, 44.8982%]
+Dataset's support: 61.5197%
+Confidence: 64.3420%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0')} describes 38048 (80.7419%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 39.5830% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0')} describes 21086 (44.8982%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.9367% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 64.3420%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [36667, 18927]
+Target property's support: [77.8113%, 40.3011%]
+Dataset's support: 57.8369%
+Confidence: 65.9550%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 36667 (77.8113%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 38.1463% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 18927 (40.3011%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 19.6906% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 65.9550%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_material == '0')}
+Count: [36620, 22146]
+Target property's support: [77.7115%, 47.1553%]
+Dataset's support: 61.1369%
+Confidence: 62.3149%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_material == '0')} describes 36620 (77.7115%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 38.0974% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Plantilla == 'adjudicacion') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_material == '0')} describes 22146 (47.1553%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 23.0395% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 62.3149%.
+
+Pattern: {(Articulo != '42')}
+Count: [33956, 19080]
+Target property's support: [72.0582%, 40.6269%]
+Dataset's support: 55.1757%
+Confidence: 64.0244%
+Interpretation:
+The pattern {(Articulo != '42')} describes 33956 (72.0582%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 35.3259% of the whole dataset.
+The pattern {(Articulo != '42')} describes 19080 (40.6269%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 19.8498% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 64.0244%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42')}
+Count: [32797, 12754]
+Target property's support: [69.5987%, 27.1570%]
+Dataset's support: 47.3887%
+Confidence: 72.0006%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42')} describes 32797 (69.5987%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 34.1202% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42')} describes 12754 (27.1570%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 13.2686% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 72.0006%.
+
+Pattern: {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [32797, 11862]
+Target property's support: [69.5987%, 25.2576%]
+Dataset's support: 46.4607%
+Confidence: 73.4387%
+Interpretation:
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 32797 (69.5987%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 34.1202% of the whole dataset.
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 11862 (25.2576%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 12.3406% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 73.4387%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42')}
+Count: [32710, 14979]
+Target property's support: [69.4141%, 31.8946%]
+Dataset's support: 49.6130%
+Confidence: 68.5902%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42')} describes 32710 (69.4141%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 34.0297% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42')} describes 14979 (31.8946%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 15.5833% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 68.5902%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')}
+Count: [32636, 9151]
+Target property's support: [69.2571%, 19.4851%]
+Dataset's support: 43.4729%
+Confidence: 78.1008%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')} describes 32636 (69.2571%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.9527% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')} describes 9151 (19.4851%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.5202% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.1008%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Articulo != '42')}
+Count: [32636, 9570]
+Target property's support: [69.2571%, 20.3773%]
+Dataset's support: 43.9088%
+Confidence: 77.3255%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Articulo != '42')} describes 32636 (69.2571%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.9527% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Articulo != '42')} describes 9570 (20.3773%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.9561% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.3255%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [32636, 9570]
+Target property's support: [69.2571%, 20.3773%]
+Dataset's support: 43.9088%
+Confidence: 77.3255%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 32636 (69.2571%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.9527% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 9570 (20.3773%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.9561% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.3255%.
+
+Pattern: {(Articulo != '42') AND (Most_used_UC_word_gyr == '0')}
+Count: [32636, 10464]
+Target property's support: [69.2571%, 22.2809%]
+Dataset's support: 44.8389%
+Confidence: 75.7216%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0')} describes 32636 (69.2571%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.9527% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0')} describes 10464 (22.2809%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 10.8862% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 75.7216%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42')}
+Count: [32636, 10464]
+Target property's support: [69.2571%, 22.2809%]
+Dataset's support: 44.8389%
+Confidence: 75.7216%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 32636 (69.2571%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.9527% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 10464 (22.2809%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 10.8862% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 75.7216%.
+
+Pattern: {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [32636, 9570]
+Target property's support: [69.2571%, 20.3773%]
+Dataset's support: 43.9088%
+Confidence: 77.3255%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 32636 (69.2571%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.9527% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 9570 (20.3773%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.9561% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.3255%.
+
+Pattern: {(Articulo != '42') AND (Most_used_description_word_material == '0')}
+Count: [32377, 15800]
+Target property's support: [68.7074%, 33.6428%]
+Dataset's support: 50.1207%
+Confidence: 67.2043%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_description_word_material == '0')} describes 32377 (68.7074%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.6832% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_description_word_material == '0')} describes 15800 (33.6428%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 16.4374% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 67.2043%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0')}
+Count: [32000, 8916]
+Target property's support: [67.9074%, 18.9848%]
+Dataset's support: 42.5667%
+Confidence: 78.2090%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0')} describes 32000 (67.9074%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.2910% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0')} describes 8916 (18.9848%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.2757% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.2090%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_gyr == '0')}
+Count: [32000, 8497]
+Target property's support: [67.9074%, 18.0926%]
+Dataset's support: 42.1308%
+Confidence: 79.0182%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_gyr == '0')} describes 32000 (67.9074%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.2910% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia') AND (Most_used_UC_word_gyr == '0')} describes 8497 (18.0926%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 8.8398% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.0182%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0')}
+Count: [32000, 9808]
+Target property's support: [67.9074%, 20.8841%]
+Dataset's support: 43.4947%
+Confidence: 76.5404%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0')} describes 32000 (67.9074%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.2910% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0')} describes 9808 (20.8841%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 10.2037% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 76.5404%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [32000, 8916]
+Target property's support: [67.9074%, 18.9848%]
+Dataset's support: 42.5667%
+Confidence: 78.2090%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 32000 (67.9074%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.2910% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 8916 (18.9848%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.2757% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.2090%.
+
+Pattern: {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [32000, 8916]
+Target property's support: [67.9074%, 18.9848%]
+Dataset's support: 42.5667%
+Confidence: 78.2090%
+Interpretation:
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 32000 (67.9074%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.2910% of the whole dataset.
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 8916 (18.9848%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.2757% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.2090%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')}
+Count: [32000, 9808]
+Target property's support: [67.9074%, 20.8841%]
+Dataset's support: 43.4947%
+Confidence: 76.5404%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 32000 (67.9074%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.2910% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 9808 (20.8841%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 10.2037% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 76.5404%.
+
+Pattern: {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_adquisicion == '0')}
+Count: [31787, 11239]
+Target property's support: [67.4554%, 23.9311%]
+Dataset's support: 44.7619%
+Confidence: 73.8786%
+Interpretation:
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_adquisicion == '0')} describes 31787 (67.4554%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.0694% of the whole dataset.
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_adquisicion == '0')} describes 11239 (23.9311%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 11.6924% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 73.8786%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional')}
+Count: [31787, 11239]
+Target property's support: [67.4554%, 23.9311%]
+Dataset's support: 44.7619%
+Confidence: 73.8786%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional')} describes 31787 (67.4554%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.0694% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional')} describes 11239 (23.9311%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 11.6924% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 73.8786%.
+
+Pattern: {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')}
+Count: [31753, 9456]
+Target property's support: [67.3832%, 20.1346%]
+Dataset's support: 42.8716%
+Confidence: 77.0536%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')} describes 31753 (67.3832%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.0341% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0')} describes 9456 (20.1346%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.8375% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.0536%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')}
+Count: [31753, 9456]
+Target property's support: [67.3832%, 20.1346%]
+Dataset's support: 42.8716%
+Confidence: 77.0536%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 31753 (67.3832%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.0341% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 9456 (20.1346%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.8375% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.0536%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_adquisicion == '0')}
+Count: [31753, 8578]
+Target property's support: [67.3832%, 18.2651%]
+Dataset's support: 41.9581%
+Confidence: 78.7310%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_adquisicion == '0')} describes 31753 (67.3832%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.0341% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_adquisicion == '0')} describes 8578 (18.2651%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 8.9241% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.7310%.
+
+Pattern: {(Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')}
+Count: [31753, 8167]
+Target property's support: [67.3832%, 17.3899%]
+Dataset's support: 41.5306%
+Confidence: 79.5416%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')} describes 31753 (67.3832%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 33.0341% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')} describes 8167 (17.3899%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 8.4965% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.5416%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_material == '0')}
+Count: [31496, 12338]
+Target property's support: [66.8378%, 26.2712%]
+Dataset's support: 45.6025%
+Confidence: 71.8529%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_material == '0')} describes 31496 (66.8378%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 32.7667% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_material == '0')} describes 12338 (26.2712%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 12.8358% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 71.8529%.
+
+Pattern: {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_material == '0') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [31376, 10624]
+Target property's support: [66.5832%, 22.6216%]
+Dataset's support: 43.6945%
+Confidence: 74.7048%
+Interpretation:
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_material == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 31376 (66.5832%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 32.6419% of the whole dataset.
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_material == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 10624 (22.6216%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 11.0526% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 74.7048%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0')}
+Count: [31167, 8991]
+Target property's support: [66.1397%, 19.1445%]
+Dataset's support: 41.7782%
+Confidence: 77.6109%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0')} describes 31167 (66.1397%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 32.4244% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0')} describes 8991 (19.1445%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.3537% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.6109%.
+
+Pattern: {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')}
+Count: [31167, 8115]
+Target property's support: [66.1397%, 17.2792%]
+Dataset's support: 40.8668%
+Confidence: 79.3417%
+Interpretation:
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')} describes 31167 (66.1397%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 32.4244% of the whole dataset.
+The pattern {(Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')} describes 8115 (17.2792%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 8.4424% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.3417%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [31167, 8115]
+Target property's support: [66.1397%, 17.2792%]
+Dataset's support: 40.8668%
+Confidence: 79.3417%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 31167 (66.1397%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 32.4244% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 8115 (17.2792%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 8.4424% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.3417%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')}
+Count: [31167, 8991]
+Target property's support: [66.1397%, 19.1445%]
+Dataset's support: 41.7782%
+Confidence: 77.6109%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 31167 (66.1397%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 32.4244% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 8991 (19.1445%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.3537% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.6109%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')}
+Count: [31103, 14675]
+Target property's support: [66.0039%, 31.2473%]
+Dataset's support: 47.6249%
+Confidence: 67.9431%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')} describes 31103 (66.0039%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 32.3578% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')} describes 14675 (31.2473%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 15.2671% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 67.9431%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_material == '0')}
+Count: [31103, 14675]
+Target property's support: [66.0039%, 31.2473%]
+Dataset's support: 47.6249%
+Confidence: 67.9431%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_material == '0')} describes 31103 (66.0039%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 32.3578% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_material == '0')} describes 14675 (31.2473%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 15.2671% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 67.9431%.
+
+Pattern: {(Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional')}
+Count: [30368, 11163]
+Target property's support: [64.4441%, 23.7693%]
+Dataset's support: 43.2066%
+Confidence: 73.1213%
+Interpretation:
+The pattern {(Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional')} describes 30368 (64.4441%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 31.5932% of the whole dataset.
+The pattern {(Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional')} describes 11163 (23.7693%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 11.6134% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 73.1213%.
+
+Pattern: {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0')}
+Count: [30353, 13932]
+Target property's support: [64.4123%, 29.6653%]
+Dataset's support: 46.0717%
+Confidence: 68.5401%
+Interpretation:
+The pattern {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0')} describes 30353 (64.4123%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 31.5776% of the whole dataset.
+The pattern {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0')} describes 13932 (29.6653%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 14.4941% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 68.5401%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')}
+Count: [30231, 7642]
+Target property's support: [64.1534%, 16.2720%]
+Dataset's support: 39.4010%
+Confidence: 79.8220%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')} describes 30231 (64.1534%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 31.4507% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Operador != 'nancy cruz garcia')} describes 7642 (16.2720%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 7.9503% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.8220%.
+
+Pattern: {(Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')}
+Count: [30231, 8954]
+Target property's support: [64.1534%, 19.0657%]
+Dataset's support: 40.7659%
+Confidence: 77.1494%
+Interpretation:
+The pattern {(Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 30231 (64.1534%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 31.4507% of the whole dataset.
+The pattern {(Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42')} describes 8954 (19.0657%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.3152% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.1494%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42')}
+Count: [30231, 8954]
+Target property's support: [64.1534%, 19.0657%]
+Dataset's support: 40.7659%
+Confidence: 77.1494%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42')} describes 30231 (64.1534%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 31.4507% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42')} describes 8954 (19.0657%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.3152% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 77.1494%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [30231, 8060]
+Target property's support: [64.1534%, 17.1621%]
+Dataset's support: 39.8358%
+Confidence: 78.9507%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 30231 (64.1534%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 31.4507% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 8060 (17.1621%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 8.3852% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.9507%.
+
+Pattern: {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [29607, 7470]
+Target property's support: [62.8292%, 15.9058%]
+Dataset's support: 38.5729%
+Confidence: 79.8527%
+Interpretation:
+The pattern {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 29607 (62.8292%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 30.8015% of the whole dataset.
+The pattern {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 7470 (15.9058%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 7.7714% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.8527%.
+
+Pattern: {(Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')}
+Count: [29398, 8012]
+Target property's support: [62.3857%, 17.0599%]
+Dataset's support: 38.9193%
+Confidence: 78.5833%
+Interpretation:
+The pattern {(Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')} describes 29398 (62.3857%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 30.5840% of the whole dataset.
+The pattern {(Plantilla == 'adjudicacion') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')} describes 8012 (17.0599%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 8.3352% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.5833%.
+
+Pattern: {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_material == '0') AND (Articulo != '42')}
+Count: [28980, 9876]
+Target property's support: [61.4986%, 21.0289%]
+Dataset's support: 40.4236%
+Confidence: 74.5831%
+Interpretation:
+The pattern {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_material == '0') AND (Articulo != '42')} describes 28980 (61.4986%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 30.1492% of the whole dataset.
+The pattern {(Plantilla == 'adjudicacion') AND (Caracter_del_procedimiento == 'nacional') AND (Most_used_description_word_material == '0') AND (Articulo != '42')} describes 9876 (21.0289%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 10.2744% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 74.5831%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_description_word_material == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')}
+Count: [28870, 7258]
+Target property's support: [61.2652%, 15.4544%]
+Dataset's support: 37.5856%
+Confidence: 79.9103%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_description_word_material == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 28870 (61.2652%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 30.0347% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_description_word_material == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz')} describes 7258 (15.4544%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 7.5508% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.9103%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava')}
+Count: [28123, 13473]
+Target property's support: [59.6800%, 28.6879%]
+Dataset's support: 43.2742%
+Confidence: 67.6099%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava')} describes 28123 (59.6800%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 29.2576% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava')} describes 13473 (28.6879%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 14.0166% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 67.6099%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')}
+Count: [27531, 8971]
+Target property's support: [58.4237%, 19.1019%]
+Dataset's support: 37.9747%
+Confidence: 75.4233%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')} describes 27531 (58.4237%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 28.6417% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')} describes 8971 (19.1019%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 9.3329% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 75.4233%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')}
+Count: [27299, 6503]
+Target property's support: [57.9314%, 13.8468%]
+Dataset's support: 35.1657%
+Confidence: 80.7615%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')} describes 27299 (57.9314%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 28.4004% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')} describes 6503 (13.8468%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 6.7654% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 80.7615%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')}
+Count: [26946, 12002]
+Target property's support: [57.1823%, 25.5557%]
+Dataset's support: 40.5193%
+Confidence: 69.1846%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')} describes 26946 (57.1823%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 28.0331% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')} describes 12002 (25.5557%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 12.4862% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 69.1846%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0')}
+Count: [26734, 6025]
+Target property's support: [56.7324%, 12.8290%]
+Dataset's support: 34.0806%
+Confidence: 81.6081%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0')} describes 26734 (56.7324%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 27.8126% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0')} describes 6025 (12.8290%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 6.2681% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 81.6081%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Articulo != '42')}
+Count: [26734, 6025]
+Target property's support: [56.7324%, 12.8290%]
+Dataset's support: 34.0806%
+Confidence: 81.6081%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Articulo != '42')} describes 26734 (56.7324%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 27.8126% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Articulo != '42')} describes 6025 (12.8290%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 6.2681% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 81.6081%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_material == '0')}
+Count: [26721, 5838]
+Target property's support: [56.7048%, 12.4308%]
+Dataset's support: 33.8726%
+Confidence: 82.0695%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_material == '0')} describes 26721 (56.7048%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 27.7990% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_material == '0')} describes 5838 (12.4308%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 6.0735% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 82.0695%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')}
+Count: [25030, 5179]
+Target property's support: [53.1163%, 11.0276%]
+Dataset's support: 31.4278%
+Confidence: 82.8561%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')} describes 25030 (53.1163%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 26.0398% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')} describes 5179 (11.0276%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.3879% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 82.8561%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Operador != 'mara castanon ortega') AND (Plantilla == 'adjudicacion')}
+Count: [25030, 4893]
+Target property's support: [53.1163%, 10.4186%]
+Dataset's support: 31.1302%
+Confidence: 83.6480%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Operador != 'mara castanon ortega') AND (Plantilla == 'adjudicacion')} describes 25030 (53.1163%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 26.0398% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Operador != 'mara castanon ortega') AND (Plantilla == 'adjudicacion')} describes 4893 (10.4186%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.0904% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 83.6480%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_servici == '0') AND (Operador != 'nancy cruz garcia')}
+Count: [24217, 5411]
+Target property's support: [51.3910%, 11.5216%]
+Dataset's support: 30.8233%
+Confidence: 81.7369%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_servici == '0') AND (Operador != 'nancy cruz garcia')} describes 24217 (51.3910%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 25.1940% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_servici == '0') AND (Operador != 'nancy cruz garcia')} describes 5411 (11.5216%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.6293% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 81.7369%.
+
+Pattern: {(Operador != 'irma olga arredondo murillo') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_material == '0') AND (Articulo != '42')}
+Count: [23291, 5176]
+Target property's support: [49.4260%, 11.0212%]
+Dataset's support: 29.6155%
+Confidence: 81.8175%
+Interpretation:
+The pattern {(Operador != 'irma olga arredondo murillo') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_material == '0') AND (Articulo != '42')} describes 23291 (49.4260%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 24.2307% of the whole dataset.
+The pattern {(Operador != 'irma olga arredondo murillo') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Most_used_UC_word_material == '0') AND (Articulo != '42')} describes 5176 (11.0212%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.3848% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 81.8175%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_servici == '0')}
+Count: [22868, 5213]
+Target property's support: [48.5283%, 11.1000%]
+Dataset's support: 29.2139%
+Confidence: 81.4358%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_servici == '0')} describes 22868 (48.5283%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 23.7906% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_servici == '0')} describes 5213 (11.1000%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.4233% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 81.4358%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Hora_pub <= 14) AND (Articulo != '42')}
+Count: [22683, 7287]
+Target property's support: [48.1357%, 15.5161%]
+Dataset's support: 31.1791%
+Confidence: 75.6857%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Hora_pub <= 14) AND (Articulo != '42')} describes 22683 (48.1357%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 23.5981% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Hora_pub <= 14) AND (Articulo != '42')} describes 7287 (15.5161%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 7.5810% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 75.6857%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub <= 14) AND (Articulo != '42')}
+Count: [22228, 5570]
+Target property's support: [47.1702%, 11.8601%]
+Dataset's support: 28.9195%
+Confidence: 79.9626%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub <= 14) AND (Articulo != '42')} describes 22228 (47.1702%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 23.1248% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub <= 14) AND (Articulo != '42')} describes 5570 (11.8601%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.7947% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.9626%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_servici == '0')}
+Count: [22187, 4871]
+Target property's support: [47.0832%, 10.3718%]
+Dataset's support: 28.1496%
+Confidence: 81.9979%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_servici == '0')} describes 22187 (47.0832%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 23.0821% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_description_word_servici == '0')} describes 4871 (10.3718%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.0675% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 81.9979%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub <= 14)}
+Count: [22045, 5329]
+Target property's support: [46.7818%, 11.3470%]
+Dataset's support: 28.4784%
+Confidence: 80.5326%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub <= 14)} describes 22045 (46.7818%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.9344% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Hora_pub <= 14)} describes 5329 (11.3470%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.5440% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 80.5326%.
+
+Pattern: {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_servici == '0') AND (Most_used_description_word_adquisicion == '0')}
+Count: [21376, 3337]
+Target property's support: [45.3621%, 7.1054%]
+Dataset's support: 25.7100%
+Confidence: 86.4970%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_servici == '0') AND (Most_used_description_word_adquisicion == '0')} describes 21376 (45.3621%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.2384% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_servici == '0') AND (Most_used_description_word_adquisicion == '0')} describes 3337 (7.1054%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4716% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.4970%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_servici == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')}
+Count: [21376, 3337]
+Target property's support: [45.3621%, 7.1054%]
+Dataset's support: 25.7100%
+Confidence: 86.4970%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_servici == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')} describes 21376 (45.3621%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.2384% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_servici == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')} describes 3337 (7.1054%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4716% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.4970%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42')}
+Count: [21342, 4232]
+Target property's support: [45.2900%, 9.0112%]
+Dataset's support: 26.6058%
+Confidence: 83.4519%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42')} describes 21342 (45.2900%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.2030% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42')} describes 4232 (9.0112%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 4.4027% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 83.4519%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava') AND (Operador != 'mara castanon ortega')}
+Count: [21342, 3693]
+Target property's support: [45.2900%, 7.8635%]
+Dataset's support: 26.0450%
+Confidence: 85.2487%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava') AND (Operador != 'mara castanon ortega')} describes 21342 (45.2900%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.2030% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava') AND (Operador != 'mara castanon ortega')} describes 3693 (7.8635%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.8420% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 85.2487%.
+
+Pattern: {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')}
+Count: [21342, 4232]
+Target property's support: [45.2900%, 9.0112%]
+Dataset's support: 26.6058%
+Confidence: 83.4519%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')} describes 21342 (45.2900%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.2030% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')} describes 4232 (9.0112%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 4.4027% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 83.4519%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios')}
+Count: [21342, 4232]
+Target property's support: [45.2900%, 9.0112%]
+Dataset's support: 26.6058%
+Confidence: 83.4519%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios')} describes 21342 (45.2900%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.2030% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios')} describes 4232 (9.0112%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 4.4027% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 83.4519%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios')}
+Count: [21342, 4231]
+Target property's support: [45.2900%, 9.0090%]
+Dataset's support: 26.6047%
+Confidence: 83.4552%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios')} describes 21342 (45.2900%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.2030% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios')} describes 4231 (9.0090%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 4.4017% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 83.4552%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Hora_pub <= 14)}
+Count: [21221, 5350]
+Target property's support: [45.0332%, 11.3917%]
+Dataset's support: 27.6430%
+Confidence: 79.8653%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Hora_pub <= 14)} describes 21221 (45.0332%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 22.0772% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Hora_pub <= 14)} describes 5350 (11.3917%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.5658% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 79.8653%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')}
+Count: [21063, 6301]
+Target property's support: [44.6979%, 13.4167%]
+Dataset's support: 28.4680%
+Confidence: 76.9734%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 21063 (44.6979%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.9128% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 6301 (13.4167%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 6.5552% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 76.9734%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')}
+Count: [20744, 3627]
+Target property's support: [44.0210%, 7.7229%]
+Dataset's support: 25.3542%
+Confidence: 85.1176%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')} describes 20744 (44.0210%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.5809% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')} describes 3627 (7.7229%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.7733% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 85.1176%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')}
+Count: [20744, 3628]
+Target property's support: [44.0210%, 7.7251%]
+Dataset's support: 25.3553%
+Confidence: 85.1141%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')} describes 20744 (44.0210%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.5809% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios')} describes 3628 (7.7251%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.7744% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 85.1141%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42')}
+Count: [20744, 3628]
+Target property's support: [44.0210%, 7.7251%]
+Dataset's support: 25.3553%
+Confidence: 85.1141%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42')} describes 20744 (44.0210%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.5809% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42')} describes 3628 (7.7251%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.7744% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 85.1141%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'elias galarza nava')}
+Count: [20744, 3281]
+Target property's support: [44.0210%, 6.9862%]
+Dataset's support: 24.9943%
+Confidence: 86.3434%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'elias galarza nava')} describes 20744 (44.0210%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.5809% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Operador != 'elias galarza nava')} describes 3281 (6.9862%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4134% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.3434%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional')}
+Count: [20744, 3627]
+Target property's support: [44.0210%, 7.7229%]
+Dataset's support: 25.3542%
+Confidence: 85.1176%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional')} describes 20744 (44.0210%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.5809% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional')} describes 3627 (7.7229%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.7733% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 85.1176%.
+
+Pattern: {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'mara castanon ortega')}
+Count: [20587, 3108]
+Target property's support: [43.6878%, 6.6178%]
+Dataset's support: 24.6510%
+Confidence: 86.8833%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'mara castanon ortega')} describes 20587 (43.6878%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.4176% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'mara castanon ortega')} describes 3108 (6.6178%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.2334% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.8833%.
+
+Pattern: {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0')}
+Count: [20587, 3300]
+Target property's support: [43.6878%, 7.0267%]
+Dataset's support: 24.8507%
+Confidence: 86.1850%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0')} describes 20587 (43.6878%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.4176% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0')} describes 3300 (7.0267%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4331% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.1850%.
+
+Pattern: {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')}
+Count: [20587, 3300]
+Target property's support: [43.6878%, 7.0267%]
+Dataset's support: 24.8507%
+Confidence: 86.1850%
+Interpretation:
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')} describes 20587 (43.6878%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.4176% of the whole dataset.
+The pattern {(Most_used_description_word_adquisicion == '0') AND (Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios')} describes 3300 (7.0267%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4331% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.1850%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Articulo != '42')}
+Count: [20587, 3300]
+Target property's support: [43.6878%, 7.0267%]
+Dataset's support: 24.8507%
+Confidence: 86.1850%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Articulo != '42')} describes 20587 (43.6878%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.4176% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Articulo != '42')} describes 3300 (7.0267%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4331% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.1850%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios')}
+Count: [20587, 3300]
+Target property's support: [43.6878%, 7.0267%]
+Dataset's support: 24.8507%
+Confidence: 86.1850%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios')} describes 20587 (43.6878%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.4176% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios')} describes 3300 (7.0267%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4331% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.1850%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'mara castanon ortega')}
+Count: [20413, 2762]
+Target property's support: [43.3185%, 5.8811%]
+Dataset's support: 24.1100%
+Confidence: 88.0820%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'mara castanon ortega')} describes 20413 (43.3185%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.2366% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'mara castanon ortega')} describes 2762 (5.8811%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 2.8734% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 88.0820%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')}
+Count: [20413, 2954]
+Target property's support: [43.3185%, 6.2899%]
+Dataset's support: 24.3097%
+Confidence: 87.3582%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 20413 (43.3185%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.2366% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 2954 (6.2899%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.0732% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 87.3582%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')}
+Count: [20413, 2954]
+Target property's support: [43.3185%, 6.2899%]
+Dataset's support: 24.3097%
+Confidence: 87.3582%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 20413 (43.3185%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.2366% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 2954 (6.2899%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.0732% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 87.3582%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Operador != 'mara castanon ortega') AND (Tipo_de_contratacion != 'servicios')}
+Count: [20413, 2762]
+Target property's support: [43.3185%, 5.8811%]
+Dataset's support: 24.1100%
+Confidence: 88.0820%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Operador != 'mara castanon ortega') AND (Tipo_de_contratacion != 'servicios')} describes 20413 (43.3185%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.2366% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Operador != 'mara castanon ortega') AND (Tipo_de_contratacion != 'servicios')} describes 2762 (5.8811%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 2.8734% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 88.0820%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')}
+Count: [20413, 2954]
+Target property's support: [43.3185%, 6.2899%]
+Dataset's support: 24.3097%
+Confidence: 87.3582%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')} describes 20413 (43.3185%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.2366% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')} describes 2954 (6.2899%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.0732% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 87.3582%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios')}
+Count: [20413, 2954]
+Target property's support: [43.3185%, 6.2899%]
+Dataset's support: 24.3097%
+Confidence: 87.3582%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios')} describes 20413 (43.3185%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.2366% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios')} describes 2954 (6.2899%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.0732% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 87.3582%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0')}
+Count: [20365, 4158]
+Target property's support: [43.2167%, 8.8536%]
+Dataset's support: 25.5124%
+Confidence: 83.0445%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0')} describes 20365 (43.2167%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.1866% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0')} describes 4158 (8.8536%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 4.3258% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 83.0445%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion')}
+Count: [20357, 5611]
+Target property's support: [43.1997%, 11.9474%]
+Dataset's support: 27.0157%
+Confidence: 78.3926%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion')} describes 20357 (43.1997%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.1783% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion')} describes 5611 (11.9474%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.8374% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.3926%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')}
+Count: [20357, 5611]
+Target property's support: [43.1997%, 11.9474%]
+Dataset's support: 27.0157%
+Confidence: 78.3926%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')} describes 20357 (43.1997%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 21.1783% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios') AND (Plantilla == 'adjudicacion')} describes 5611 (11.9474%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 5.8374% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 78.3926%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')}
+Count: [20039, 2886]
+Target property's support: [42.5249%, 6.1451%]
+Dataset's support: 23.8499%
+Confidence: 87.4111%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')} describes 20039 (42.5249%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.8475% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_gyr == '0')} describes 2886 (6.1451%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.0024% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 87.4111%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional')}
+Count: [20039, 2886]
+Target property's support: [42.5249%, 6.1451%]
+Dataset's support: 23.8499%
+Confidence: 87.4111%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional')} describes 20039 (42.5249%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.8475% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0') AND (Tipo_de_contratacion != 'servicios') AND (Caracter_del_procedimiento == 'nacional')} describes 2886 (6.1451%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.0024% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 87.4111%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_servici == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')}
+Count: [19940, 3111]
+Target property's support: [42.3148%, 6.6242%]
+Dataset's support: 23.9810%
+Confidence: 86.5038%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_servici == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')} describes 19940 (42.3148%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.7445% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Most_used_description_word_servici == '0') AND (Most_used_UC_word_material == '0') AND (Plantilla == 'adjudicacion')} describes 3111 (6.6242%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.2365% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.5038%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_adquisicion == '0')}
+Count: [19883, 2331]
+Target property's support: [42.1938%, 4.9634%]
+Dataset's support: 23.1102%
+Confidence: 89.5066%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_adquisicion == '0')} describes 19883 (42.1938%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.6852% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_adquisicion == '0')} describes 2331 (4.9634%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 2.4250% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 89.5066%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_adquisicion == '0')}
+Count: [19883, 2331]
+Target property's support: [42.1938%, 4.9634%]
+Dataset's support: 23.1102%
+Confidence: 89.5066%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_adquisicion == '0')} describes 19883 (42.1938%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.6852% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Most_used_description_word_adquisicion == '0')} describes 2331 (4.9634%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 2.4250% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 89.5066%.
+
+Pattern: {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')}
+Count: [19873, 2509]
+Target property's support: [42.1726%, 5.3424%]
+Dataset's support: 23.2850%
+Confidence: 88.7901%
+Interpretation:
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 19873 (42.1726%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.6748% of the whole dataset.
+The pattern {(Articulo != '42') AND (Most_used_UC_word_gyr == '0') AND (Caracter_del_procedimiento == 'nacional') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 2509 (5.3424%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 2.6102% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 88.7901%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')}
+Count: [19873, 2509]
+Target property's support: [42.1726%, 5.3424%]
+Dataset's support: 23.2850%
+Confidence: 88.7901%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 19873 (42.1726%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.6748% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_UC_word_material == '0')} describes 2509 (5.3424%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 2.6102% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 88.7901%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')}
+Count: [19873, 2509]
+Target property's support: [42.1726%, 5.3424%]
+Dataset's support: 23.2850%
+Confidence: 88.7901%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')} describes 19873 (42.1726%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.6748% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_UC_word_material == '0')} describes 2509 (5.3424%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 2.6102% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 88.7901%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_material == '0')}
+Count: [19704, 3325]
+Target property's support: [41.8140%, 7.0799%]
+Dataset's support: 23.9581%
+Confidence: 85.5617%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_material == '0')} describes 19704 (41.8140%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.4989% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Articulo != '42') AND (Tipo_de_contratacion != 'servicios') AND (Most_used_description_word_adquisicion == '0') AND (Most_used_UC_word_material == '0')} describes 3325 (7.0799%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4591% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 85.5617%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios')}
+Count: [19328, 3359]
+Target property's support: [41.0161%, 7.1523%]
+Dataset's support: 23.6023%
+Confidence: 85.1942%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios')} describes 19328 (41.0161%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.1078% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Operador != 'guadalupe kaori munoz ortiz') AND (Tipo_de_contratacion != 'servicios')} describes 3359 (7.1523%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4945% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 85.1942%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Plantilla == 'adjudicacion')}
+Count: [19328, 3360]
+Target property's support: [41.0161%, 7.1544%]
+Dataset's support: 23.6033%
+Confidence: 85.1904%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Plantilla == 'adjudicacion')} describes 19328 (41.0161%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.1078% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Plantilla == 'adjudicacion')} describes 3360 (7.1544%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.4956% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 85.1904%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava') AND (Articulo != '42')}
+Count: [19328, 3013]
+Target property's support: [41.0161%, 6.4156%]
+Dataset's support: 23.2423%
+Confidence: 86.5136%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava') AND (Articulo != '42')} describes 19328 (41.0161%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 20.1078% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Tipo_de_contratacion != 'servicios') AND (Operador != 'elias galarza nava') AND (Articulo != '42')} describes 3013 (6.4156%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 3.1346% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 86.5136%.
+
+Pattern: {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'irma olga arredondo murillo') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')}
+Count: [18628, 4155]
+Target property's support: [39.5306%, 8.8472%]
+Dataset's support: 23.7022%
+Confidence: 81.7627%
+Interpretation:
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'irma olga arredondo murillo') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')} describes 18628 (39.5306%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 19.3795% of the whole dataset.
+The pattern {(Caracter_del_procedimiento == 'nacional') AND (Operador != 'irma olga arredondo murillo') AND (Tipo_de_contratacion != 'servicios') AND (Articulo != '42') AND (Most_used_description_word_adquisicion == '0')} describes 4155 (8.8472%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 4.3226% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 81.7627%.
+
+Pattern: {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios')}
+Count: [18448, 2128]
+Target property's support: [39.1486%, 4.5311%]
+Dataset's support: 21.4061%
+Confidence: 89.6579%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios')} describes 18448 (39.1486%) of the objects in the class {Forma_del_procedimiento == 'presencial'}. These objects are 19.1923% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '0') AND (Plantilla == 'adjudicacion') AND (Articulo != '42') AND (Most_used_UC_word_material == '0') AND (Tipo_de_contratacion != 'servicios')} describes 2128 (4.5311%) of the objects outside the class {Forma_del_procedimiento == 'presencial'}. These objects are 2.2139% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'presencial'} given that the object fulfills the pattern is 89.6579%.
+
+********************* Class: {Forma_del_procedimiento == 'electronica'}' *********************
+Pattern: {(Most_used_UC_word_gyr == '1')}
+Count: [14602, 3383]
+Target property's support: [38.7013%, 6.0028%]
+Dataset's support: 18.7106%
+Confidence: 81.1899%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1')} describes 14602 (38.7013%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.1911% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1')} describes 3383 (6.0028%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 3.5195% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 81.1899%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez')}
+Count: [14602, 3100]
+Target property's support: [38.7013%, 5.5006%]
+Dataset's support: 18.4162%
+Confidence: 82.4879%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez')} describes 14602 (38.7013%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.1911% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez')} describes 3100 (5.5006%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 3.2251% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 82.4879%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo')}
+Count: [14539, 2853]
+Target property's support: [38.5343%, 5.0624%]
+Dataset's support: 18.0937%
+Confidence: 83.5959%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo')} describes 14539 (38.5343%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.1256% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo')} describes 2853 (5.0624%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 2.9681% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 83.5959%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica')}
+Count: [14537, 3076]
+Target property's support: [38.5290%, 5.4581%]
+Dataset's support: 18.3236%
+Confidence: 82.5356%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica')} describes 14537 (38.5290%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.1235% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica')} describes 3076 (5.4581%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 3.2001% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 82.5356%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'jose alfredo flores rodriguez')}
+Count: [14537, 2793]
+Target property's support: [38.5290%, 4.9559%]
+Dataset's support: 18.0292%
+Confidence: 83.8834%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'jose alfredo flores rodriguez')} describes 14537 (38.5290%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.1235% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'jose alfredo flores rodriguez')} describes 2793 (4.9559%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 2.9057% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 83.8834%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica')}
+Count: [14537, 2793]
+Target property's support: [38.5290%, 4.9559%]
+Dataset's support: 18.0292%
+Confidence: 83.8834%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica')} describes 14537 (38.5290%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.1235% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica')} describes 2793 (4.9559%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 2.9057% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 83.8834%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo')}
+Count: [14474, 2546]
+Target property's support: [38.3620%, 4.5176%]
+Dataset's support: 17.7067%
+Confidence: 85.0411%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo')} describes 14474 (38.3620%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.0579% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo')} describes 2546 (4.5176%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 2.6487% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 85.0411%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'alonso hernandez bravo')}
+Count: [14474, 2546]
+Target property's support: [38.3620%, 4.5176%]
+Dataset's support: 17.7067%
+Confidence: 85.0411%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'alonso hernandez bravo')} describes 14474 (38.3620%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.0579% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'alonso hernandez bravo')} describes 2546 (4.5176%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 2.6487% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 85.0411%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo') AND (Tipo_de_contratacion != 'obra publica')}
+Count: [14474, 2546]
+Target property's support: [38.3620%, 4.5176%]
+Dataset's support: 17.7067%
+Confidence: 85.0411%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo') AND (Tipo_de_contratacion != 'obra publica')} describes 14474 (38.3620%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.0579% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'alonso hernandez bravo') AND (Tipo_de_contratacion != 'obra publica')} describes 2546 (4.5176%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 2.6487% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 85.0411%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'alonso hernandez bravo') AND (Operador != 'yanet esteidy tapia sanchez')}
+Count: [14433, 2321]
+Target property's support: [38.2534%, 4.1184%]
+Dataset's support: 17.4299%
+Confidence: 86.1466%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'alonso hernandez bravo') AND (Operador != 'yanet esteidy tapia sanchez')} describes 14433 (38.2534%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 15.0153% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Operador != 'jose alfredo flores rodriguez') AND (Tipo_de_contratacion != 'obra publica') AND (Operador != 'alonso hernandez bravo') AND (Operador != 'yanet esteidy tapia sanchez')} describes 2321 (4.1184%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 2.4146% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 86.1466%.
+
+Pattern: {(Most_used_UC_word_gyr == '1') AND (Articulo != '43') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'yanet esteidy tapia sanchez') AND (Operador != 'alonso hernandez bravo')}
+Count: [12963, 2309]
+Target property's support: [34.3573%, 4.0971%]
+Dataset's support: 15.8881%
+Confidence: 84.8808%
+Interpretation:
+The pattern {(Most_used_UC_word_gyr == '1') AND (Articulo != '43') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'yanet esteidy tapia sanchez') AND (Operador != 'alonso hernandez bravo')} describes 12963 (34.3573%) of the objects in the class {Forma_del_procedimiento == 'electronica'}. These objects are 13.4860% of the whole dataset.
+The pattern {(Most_used_UC_word_gyr == '1') AND (Articulo != '43') AND (Operador != 'jose alfredo flores rodriguez') AND (Operador != 'yanet esteidy tapia sanchez') AND (Operador != 'alonso hernandez bravo')} describes 2309 (4.0971%) of the objects outside the class {Forma_del_procedimiento == 'electronica'}. These objects are 2.4022% of the whole dataset.
+The probability that an object fulfills the property {Forma_del_procedimiento == 'electronica'} given that the object fulfills the pattern is 84.8808%.
+
+That's all folks!
